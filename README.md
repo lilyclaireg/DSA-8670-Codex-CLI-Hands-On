@@ -1,5 +1,37 @@
 # DSA 8670-Codex CLI Hands-On
+
 Individual project for `Codex CLI Hands-On` assignment for DSA 8670.
 
-# Question:
+## Analysis Question
+
 How do sale prices vary across Ames neighborhoods, and are higher-priced neighborhoods also characterized by newer homes, larger lots, or higher overall quality?
+
+## Date of Session
+
+October 18, 2026
+
+## Summary of Findings
+
+Typical sale prices differed widely across Ames neighborhoods. 
+The highest median sale price was in StoneBr at $319,000, based on 51 sales. 
+NridgHt was close behind at $317,750 across 166 sales, 
+followed by NoRidge at $302,000 across 71 sales. 
+At the other end, MeadowV had the lowest median at $88,250 across 37 sales.
+
+A median is the midpoint sale price: half the sales in that neighborhood were higher and half were lower. 
+It helps describe a typical sale without being pulled as strongly by a few unusually expensive homes.
+
+Across neighborhoods, sale price tended to rise along with average overall quality, averageyear built, and average lot area. 
+To measure these patterns, I used Spearman rank correlation. 
+It compares how neighborhoods rank on two measures: a positive value means neighborhoods ranked higher on one measure also tended to rank higher on the other. 
+The relationship was strongest for overall quality (rho = 0.877), followed by year built (rho = 0.681) and lot area (rho = 0.570). 
+In plain terms, neighborhood median prices aligned most closely with average quality, and somewhat less consistently with newer homes and larger lots.
+
+These are neighborhood-level patterns in this dataset; they do not show that home age, lot size, or quality caused sale prices to be higher. 
+Neighborhoods with very few sales, such as Landmrk (1 sale) and GrnHill (2 sales), should also be interpreted cautiously because their median prices and averages are based on limited observations.
+
+Overall, the answer is yes: higher-priced neighborhoods generally had newer homes, larger lots, and higher overall quality. 
+The connection was clearest for quality; the relationships with home age and lot area were more moderate and had exceptions. 
+These patterns describe how neighborhoods compared in this dataset, rather than predicting the price of an individual home.
+
+
