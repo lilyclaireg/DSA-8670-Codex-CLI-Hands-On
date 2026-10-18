@@ -12,9 +12,10 @@ import csv
 from pathlib import Path
 
 
-ROOT = Path(__file__).resolve().parent.parent
+ANALYSIS_DIR = Path(__file__).resolve().parent.parent
+ROOT = ANALYSIS_DIR.parent
 SOURCE = ROOT / "AmesHousing-1.csv"
-OUTPUT_DIR = Path(__file__).resolve().parent
+OUTPUT_DIR = ANALYSIS_DIR / "data"
 FULL_OUTPUT = OUTPUT_DIR / "Amos_Housing_data_cleaned.csv"
 LIMITED_OUTPUT = OUTPUT_DIR / "Amos_Housing_data_cleaned_limited.csv"
 

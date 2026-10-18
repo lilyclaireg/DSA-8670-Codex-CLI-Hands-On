@@ -11,7 +11,8 @@ from pathlib import Path
 from statistics import mean, median
 
 
-DATA_PATH = Path(__file__).resolve().parent / "Amos_Housing_data_cleaned.csv"
+ANALYSIS_DIR = Path(__file__).resolve().parent.parent
+DATA_PATH = ANALYSIS_DIR / "data" / "Amos_Housing_data_cleaned.csv"
 FIELDS = ["Neighborhood", "SalePrice", "Year Built", "Lot Area", "Overall Qual"]
 
 

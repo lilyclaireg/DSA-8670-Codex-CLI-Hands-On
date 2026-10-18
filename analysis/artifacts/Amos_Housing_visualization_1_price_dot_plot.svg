@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1050" viewBox="0 0 1080 1050">
 <rect width="100%" height="100%" fill="#ffffff"/>
-<text x="60" y="42" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#17324d">Typical sale price by neighborhood</text>
-<text x="60" y="68" font-family="Arial, sans-serif" font-size="14" fill="#526779">Median sale price; sales count shown beside each neighborhood</text>
+<text x="60" y="42" font-family="Arial" font-size="24" font-weight="700" fill="#17324d">Typical sale price by neighborhood</text>
+<text x="60" y="68" font-family="Arial" font-size="14" fill="#526779">Median sale price; sales count shown beside each neighborhood</text>
 <line x1="210.0" y1="110" x2="210.0" y2="970" stroke="#dce5eb"/>
 <text x="210.0" y="997" text-anchor="middle" font-family="Arial" font-size="12" fill="#526779">$0k</text>
 <line x1="327.9" y1="110" x2="327.9" y2="970" stroke="#dce5eb"/>

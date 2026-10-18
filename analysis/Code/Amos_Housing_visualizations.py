@@ -12,8 +12,9 @@ from pathlib import Path
 from statistics import mean, median
 
 
-OUT_DIR = Path(__file__).resolve().parent
-DATA_PATH = OUT_DIR / "Amos_Housing_data_cleaned.csv"
+ANALYSIS_DIR = Path(__file__).resolve().parent.parent
+OUT_DIR = ANALYSIS_DIR / "artifacts"
+DATA_PATH = ANALYSIS_DIR / "data" / "Amos_Housing_data_cleaned.csv"
 
 
 def read_summary():
@@ -178,6 +179,7 @@ def rank_heatmap(rows):
 
 
 def main():
+    OUT_DIR.mkdir(parents=True, exist_ok=True)
     rows = read_summary()
     horizontal_dot_plot(rows)
     scatter(

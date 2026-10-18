@@ -1,0 +1,2783 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 10 /Kids [8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R 20 0 R 22 0 R 24 0 R 26 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier-Bold /Encoding /WinAnsiEncoding >>
+endobj
+7 0 obj
+<< /Length 2971 >>
+stream
+q
+1.000 1.000 1.000 rg
+0.00 0.00 612.00 792.00 re
+f
+Q
+q
+0.090 0.196 0.302 rg
+0.00 592.00 612.00 200.00 re
+f
+Q
+BT /F2 9.00 Tf 0.451 0.816 0.816 rg 1 0 0 1 52.00 740.00 Tm (DATA ANALYSIS REPORT) Tj ET
+BT /F2 31.00 Tf 1.000 1.000 1.000 rg 1 0 0 1 52.00 687.00 Tm (Ames Housing) Tj ET
+BT /F1 14.00 Tf 0.910 0.941 0.957 rg 1 0 0 1 52.00 655.00 Tm (Neighborhood sale prices and property characteristics) Tj ET
+BT /F1 9.00 Tf 0.722 0.796 0.843 rg 1 0 0 1 52.00 624.00 Tm (Prepared 2026-10-18  |  Ames, Iowa home sales) Tj ET
+BT /F2 9.00 Tf 0.078 0.490 0.573 rg 1 0 0 1 52.00 552.00 Tm (THE QUESTION) Tj ET
+BT /F2 14.00 Tf 0.090 0.196 0.302 rg 1 0 0 1 52.00 527.00 Tm (How do sale prices vary across Ames neighborhoods, and are higher-priced) Tj ET
+BT /F2 14.00 Tf 0.090 0.196 0.302 rg 1 0 0 1 52.00 506.00 Tm (neighborhoods also characterized by newer homes, larger lots, or higher overall) Tj ET
+BT /F2 14.00 Tf 0.090 0.196 0.302 rg 1 0 0 1 52.00 485.00 Tm (quality?) Tj ET
+BT /F2 9.00 Tf 0.078 0.490 0.573 rg 1 0 0 1 52.00 436.00 Tm (KEY FINDINGS) Tj ET
+q
+0.933 0.957 0.969 rg
+0.847 0.882 0.910 RG
+0.60 w
+52.00 324.00 158.00 92.00 re
+B
+Q
+BT /F2 19.00 Tf 0.078 0.490 0.573 rg 1 0 0 1 64.00 385.00 Tm ($319,000) Tj ET
+BT /F1 8.40 Tf 0.251 0.349 0.416 rg 1 0 0 1 64.00 363.00 Tm (Highest neighborhood median) Tj ET
+BT /F1 8.40 Tf 0.251 0.349 0.416 rg 1 0 0 1 64.00 350.00 Tm (StoneBr; 51 sales) Tj ET
+q
+0.933 0.957 0.969 rg
+0.847 0.882 0.910 RG
+0.60 w
+227.00 324.00 158.00 92.00 re
+B
+Q
+BT /F2 19.00 Tf 0.078 0.490 0.573 rg 1 0 0 1 239.00 385.00 Tm ($88,250) Tj ET
+BT /F1 8.40 Tf 0.251 0.349 0.416 rg 1 0 0 1 239.00 363.00 Tm (Lowest neighborhood median) Tj ET
+BT /F1 8.40 Tf 0.251 0.349 0.416 rg 1 0 0 1 239.00 350.00 Tm (MeadowV; 37 sales) Tj ET
+q
+0.933 0.957 0.969 rg
+0.847 0.882 0.910 RG
+0.60 w
+402.00 324.00 158.00 92.00 re
+B
+Q
+BT /F2 19.00 Tf 0.078 0.490 0.573 rg 1 0 0 1 414.00 385.00 Tm (0.877) Tj ET
+BT /F1 8.40 Tf 0.251 0.349 0.416 rg 1 0 0 1 414.00 363.00 Tm (Price and quality rank correlation) Tj ET
+BT /F1 8.40 Tf 0.251 0.349 0.416 rg 1 0 0 1 414.00 350.00 Tm (Strongest observed association) Tj ET
+BT /F2 9.00 Tf 0.078 0.490 0.573 rg 1 0 0 1 52.00 287.00 Tm (OVERALL ANSWER) Tj ET
+BT /F1 10.50 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 263.00 Tm (Yes. Higher-priced neighborhoods generally had higher average quality, newer homes, and) Tj ET
+BT /F1 10.50 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 248.00 Tm (larger lots. The pattern was clearest for quality; age and lot area were less consistent.) Tj ET
+BT /F1 10.50 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 233.00 Tm (These are neighborhood-level associations, not proof that a feature caused a home's sale) Tj ET
+BT /F1 10.50 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 218.00 Tm (price.) Tj ET
+q 0.847 0.882 0.910 RG 0.50 w 48.00 36.00 m 564.00 36.00 l S Q
+BT /F1 8.00 Tf 0.408 0.482 0.533 rg 1 0 0 1 48.00 19.00 Tm (Ames Housing neighborhood analysis) Tj ET
+BT /F1 8.00 Tf 0.408 0.482 0.533 rg 1 0 0 1 559.84 19.00 Tm (1) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 4410 >>
+stream
+q
+1.000 1.000 1.000 rg
+0.00 0.00 612.00 792.00 re
+f
+Q
+BT /F2 18.00 Tf 0.090 0.196 0.302 rg 1 0 0 1 52.00 734.00 Tm (Data and method) Tj ET
+q 0.612 0.698 0.757 RG 0.80 w 52.00 726.00 m 560.00 726.00 l S Q
+BT /F2 8.00 Tf 0.078 0.490 0.573 rg 1 0 0 1 526.40 756.00 Tm (CONTEXT) Tj ET
+BT /F1 10.20 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 700.00 Tm (The source file, AmesHousing-1.csv, contains 2,930 home sales and 82 fields. Each record) Tj ET
+BT /F1 10.20 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 686.00 Tm (describes a sold home in Ames, Iowa. The analysis groups homes into 28 neighborhoods and) Tj ET
+BT /F1 10.20 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 672.00 Tm (focuses on sale price, neighborhood, year built, lot area, and overall quality.) Tj ET
+BT /F2 12.00 Tf 0.090 0.196 0.302 rg 1 0 0 1 52.00 650.00 Tm (Cleaning decisions) Tj ET
+BT /F2 10.00 Tf 0.078 0.490 0.573 rg 1 0 0 1 56.00 630.00 Tm (-) Tj ET
+BT /F1 9.20 Tf 0.149 0.243 0.306 rg 1 0 0 1 70.00 630.00 Tm (The original CSV was preserved; no duplicate rows or property IDs were found.) Tj ET
+BT /F2 10.00 Tf 0.078 0.490 0.573 rg 1 0 0 1 56.00 614.00 Tm (-) Tj ET
+BT /F1 9.20 Tf 0.149 0.243 0.306 rg 1 0 0 1 70.00 614.00 Tm (Whitespace was trimmed and numeric fields were checked and normalized.) Tj ET
+BT /F2 10.00 Tf 0.078 0.490 0.573 rg 1 0 0 1 56.00 598.00 Tm (-) Tj ET
+BT /F1 9.20 Tf 0.149 0.243 0.306 rg 1 0 0 1 70.00 598.00 Tm (Source codes for absent features were standardized; structurally absent basement or) Tj ET
+BT /F1 9.20 Tf 0.149 0.243 0.306 rg 1 0 0 1 70.00 586.00 Tm (garage measurements were set to zero only when absence was clear.) Tj ET
+BT /F2 10.00 Tf 0.078 0.490 0.573 rg 1 0 0 1 56.00 570.00 Tm (-) Tj ET
+BT /F1 9.20 Tf 0.149 0.243 0.306 rg 1 0 0 1 70.00 570.00 Tm (Unknown measurements stayed blank. All 2,930 records had values for the five) Tj ET
+BT /F1 9.20 Tf 0.149 0.243 0.306 rg 1 0 0 1 70.00 558.00 Tm (analysis fields, so none were excluded.) Tj ET
+BT /F2 12.00 Tf 0.090 0.196 0.302 rg 1 0 0 1 52.00 539.00 Tm (Measures and interpretation) Tj ET
+BT /F1 9.30 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 516.00 Tm (Median sale price is the middle sale price in a neighborhood, less affected by unusually) Tj ET
+BT /F1 9.30 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 503.00 Tm (high or low transactions than the mean. Average year built, lot area, and quality describe) Tj ET
+BT /F1 9.30 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 490.00 Tm (neighborhood characteristics. Spearman's rank correlation \(rho\) measures whether) Tj ET
+BT /F1 9.30 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 477.00 Tm (neighborhoods ranking higher on one measure tend to rank higher on another; it does not) Tj ET
+BT /F1 9.30 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 464.00 Tm (measure causation.) Tj ET
+BT /F2 12.00 Tf 0.090 0.196 0.302 rg 1 0 0 1 52.00 445.00 Tm (Code excerpts from the reproducible workflow) Tj ET
+q
+0.945 0.961 0.969 rg
+0.847 0.882 0.910 RG
+0.60 w
+52.00 365.00 508.00 70.00 re
+B
+Q
+BT /F3 7.60 Tf 0.125 0.216 0.282 rg 1 0 0 1 62.00 423.00 Tm (for neighborhood, homes in groups.items\(\):) Tj ET
+BT /F3 7.60 Tf 0.125 0.216 0.282 rg 1 0 0 1 62.00 412.00 Tm (    median_price = median\(int\(h['SalePrice']\) for h in homes\)) Tj ET
+BT /F3 7.60 Tf 0.125 0.216 0.282 rg 1 0 0 1 62.00 401.00 Tm (    avg_year = mean\(int\(h['Year Built']\) for h in homes\)) Tj ET
+BT /F3 7.60 Tf 0.125 0.216 0.282 rg 1 0 0 1 62.00 390.00 Tm (    avg_lot = mean\(int\(h['Lot Area']\) for h in homes\)) Tj ET
+BT /F3 7.60 Tf 0.125 0.216 0.282 rg 1 0 0 1 62.00 379.00 Tm (    avg_quality = mean\(int\(h['Overall Qual']\) for h in homes\)) Tj ET
+BT /F1 9.00 Tf 0.251 0.349 0.416 rg 1 0 0 1 52.00 356.00 Tm (Rank association is calculated across the 28 neighborhood summaries:) Tj ET
+q
+0.945 0.961 0.969 rg
+0.847 0.882 0.910 RG
+0.60 w
+52.00 298.00 508.00 51.00 re
+B
+Q
+BT /F3 7.80 Tf 0.125 0.216 0.282 rg 1 0 0 1 62.00 337.00 Tm (rho_quality = spearman\(median_prices, average_quality\)) Tj ET
+BT /F3 7.80 Tf 0.125 0.216 0.282 rg 1 0 0 1 62.00 325.00 Tm (rho_year = spearman\(median_prices, average_year_built\)) Tj ET
+BT /F3 7.80 Tf 0.125 0.216 0.282 rg 1 0 0 1 62.00 313.00 Tm (rho_lot = spearman\(median_prices, average_lot_area\)) Tj ET
+q 0.847 0.882 0.910 RG 0.50 w 48.00 36.00 m 564.00 36.00 l S Q
+BT /F1 8.00 Tf 0.408 0.482 0.533 rg 1 0 0 1 48.00 19.00 Tm (Ames Housing neighborhood analysis) Tj ET
+BT /F1 8.00 Tf 0.408 0.482 0.533 rg 1 0 0 1 559.84 19.00 Tm (2) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 6141 >>
+stream
+q
+1.000 1.000 1.000 rg
+0.00 0.00 612.00 792.00 re
+f
+Q
+BT /F2 18.00 Tf 0.090 0.196 0.302 rg 1 0 0 1 52.00 734.00 Tm (Neighborhood data at a glance) Tj ET
+q 0.612 0.698 0.757 RG 0.80 w 52.00 726.00 m 560.00 726.00 l S Q
+BT /F2 8.00 Tf 0.078 0.490 0.573 rg 1 0 0 1 526.40 756.00 Tm (RESULTS) Tj ET
+BT /F1 10.20 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 698.00 Tm (Below are the three highest- and lowest-median-price neighborhoods. The complete) Tj ET
+BT /F1 10.20 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 684.00 Tm (28-neighborhood comparison follows in the summary table artifact.) Tj ET
+q
+0.141 0.290 0.408 rg
+52.00 625.00 508.00 27.00 re
+f
+Q
+BT /F2 7.60 Tf 1.000 1.000 1.000 rg 1 0 0 1 56.00 634.00 Tm (Neighborhood) Tj ET
+BT /F2 7.60 Tf 1.000 1.000 1.000 rg 1 0 0 1 166.00 634.00 Tm (Sales) Tj ET
+BT /F2 7.60 Tf 1.000 1.000 1.000 rg 1 0 0 1 224.00 634.00 Tm (Median price) Tj ET
+BT /F2 7.60 Tf 1.000 1.000 1.000 rg 1 0 0 1 333.00 634.00 Tm (Avg. year) Tj ET
+BT /F2 7.60 Tf 1.000 1.000 1.000 rg 1 0 0 1 414.00 634.00 Tm (Avg. lot area) Tj ET
+BT /F2 7.60 Tf 1.000 1.000 1.000 rg 1 0 0 1 514.00 634.00 Tm (Avg. quality) Tj ET
+q
+0.933 0.957 0.969 rg
+52.00 596.00 508.00 27.00 re
+f
+Q
+BT /F1 8.20 Tf 0.125 0.216 0.282 rg 1 0 0 1 56.00 605.00 Tm (StoneBr) Tj ET
+BT /F1 8.20 Tf 0.125 0.216 0.282 rg 1 0 0 1 166.00 605.00 Tm (51) Tj ET
+BT /F1 8.20 Tf 0.125 0.216 0.282 rg 1 0 0 1 224.00 605.00 Tm ($319,000) Tj ET
+BT /F1 8.20 Tf 0.125 0.216 0.282 rg 1 0 0 1 333.00 605.00 Tm (1999.4) Tj ET
+BT /F1 8.20 Tf 0.125 0.216 0.282 rg 1 0 0 1 414.00 605.00 Tm (11,383) Tj ET
+BT /F1 8.20 Tf 0.125 0.216 0.282 rg 1 0 0 1 514.00 605.00 Tm (8.37) Tj ET
+q
+1.000 1.000 1.000 rg
+52.00 567.00 508.00 27.00 re
+f
+Q
+BT /F1 8.20 Tf 0.125 0.216 0.282 rg 1 0 0 1 56.00 576.00 Tm (NridgHt) Tj ET
+BT /F1 8.20 Tf 0.125 0.216 0.282 rg 1 0 0 1 166.00 576.00 Tm (166) Tj ET
+BT /F1 8.20 Tf 0.125 0.216 0.282 rg 1 0 0 1 224.00 576.00 Tm ($317,750) Tj ET
+BT /F1 8.20 Tf 0.125 0.216 0.282 rg 1 0 0 1 333.00 576.00 Tm (2005.6) Tj ET
+BT /F1 8.20 Tf 0.125 0.216 0.282 rg 1 0 0 1 414.00 576.00 Tm (11,217) Tj ET
+BT /F1 8.20 Tf 0.125 0.216 0.282 rg 1 0 0 1 514.00 576.00 Tm (8.28) Tj ET
+q
+0.933 0.957 0.969 rg
+52.00 538.00 508.00 27.00 re
+f
+Q
+BT /F1 8.20 Tf 0.125 0.216 0.282 rg 1 0 0 1 56.00 547.00 Tm (NoRidge) Tj ET
+BT /F1 8.20 Tf 0.125 0.216 0.282 rg 1 0 0 1 166.00 547.00 Tm (71) Tj ET
+BT /F1 8.20 Tf 0.125 0.216 0.282 rg 1 0 0 1 224.00 547.00 Tm ($302,000) Tj ET
+BT /F1 8.20 Tf 0.125 0.216 0.282 rg 1 0 0 1 333.00 547.00 Tm (1995.4) Tj ET
+BT /F1 8.20 Tf 0.125 0.216 0.282 rg 1 0 0 1 414.00 547.00 Tm (12,976) Tj ET
+BT /F1 8.20 Tf 0.125 0.216 0.282 rg 1 0 0 1 514.00 547.00 Tm (7.93) Tj ET
+q
+1.000 1.000 1.000 rg
+52.00 509.00 508.00 27.00 re
+f
+Q
+BT /F1 8.20 Tf 0.125 0.216 0.282 rg 1 0 0 1 56.00 518.00 Tm (IDOTRR) Tj ET
+BT /F1 8.20 Tf 0.125 0.216 0.282 rg 1 0 0 1 166.00 518.00 Tm (93) Tj ET
+BT /F1 8.20 Tf 0.125 0.216 0.282 rg 1 0 0 1 224.00 518.00 Tm ($106,500) Tj ET
+BT /F1 8.20 Tf 0.125 0.216 0.282 rg 1 0 0 1 333.00 518.00 Tm (1927.7) Tj ET
+BT /F1 8.20 Tf 0.125 0.216 0.282 rg 1 0 0 1 414.00 518.00 Tm (8,826) Tj ET
+BT /F1 8.20 Tf 0.125 0.216 0.282 rg 1 0 0 1 514.00 518.00 Tm (4.73) Tj ET
+q
+0.933 0.957 0.969 rg
+52.00 480.00 508.00 27.00 re
+f
+Q
+BT /F1 8.20 Tf 0.125 0.216 0.282 rg 1 0 0 1 56.00 489.00 Tm (BrDale) Tj ET
+BT /F1 8.20 Tf 0.125 0.216 0.282 rg 1 0 0 1 166.00 489.00 Tm (30) Tj ET
+BT /F1 8.20 Tf 0.125 0.216 0.282 rg 1 0 0 1 224.00 489.00 Tm ($106,000) Tj ET
+BT /F1 8.20 Tf 0.125 0.216 0.282 rg 1 0 0 1 333.00 489.00 Tm (1971.8) Tj ET
+BT /F1 8.20 Tf 0.125 0.216 0.282 rg 1 0 0 1 414.00 489.00 Tm (1,841) Tj ET
+BT /F1 8.20 Tf 0.125 0.216 0.282 rg 1 0 0 1 514.00 489.00 Tm (5.73) Tj ET
+q
+1.000 1.000 1.000 rg
+52.00 451.00 508.00 27.00 re
+f
+Q
+BT /F1 8.20 Tf 0.125 0.216 0.282 rg 1 0 0 1 56.00 460.00 Tm (MeadowV) Tj ET
+BT /F1 8.20 Tf 0.125 0.216 0.282 rg 1 0 0 1 166.00 460.00 Tm (37) Tj ET
+BT /F1 8.20 Tf 0.125 0.216 0.282 rg 1 0 0 1 224.00 460.00 Tm ($88,250) Tj ET
+BT /F1 8.20 Tf 0.125 0.216 0.282 rg 1 0 0 1 333.00 460.00 Tm (1972.2) Tj ET
+BT /F1 8.20 Tf 0.125 0.216 0.282 rg 1 0 0 1 414.00 460.00 Tm (2,109) Tj ET
+BT /F1 8.20 Tf 0.125 0.216 0.282 rg 1 0 0 1 514.00 460.00 Tm (4.38) Tj ET
+BT /F2 13.00 Tf 0.090 0.196 0.302 rg 1 0 0 1 52.00 403.00 Tm (Neighborhood-level Spearman rank correlations) Tj ET
+BT /F1 9.50 Tf 0.125 0.216 0.282 rg 1 0 0 1 60.00 378.00 Tm (Average overall quality) Tj ET
+BT /F2 10.00 Tf 0.078 0.490 0.573 rg 1 0 0 1 305.00 378.00 Tm (0.877) Tj ET
+BT /F1 9.00 Tf 0.251 0.349 0.416 rg 1 0 0 1 365.00 378.00 Tm (Strongest positive alignment) Tj ET
+BT /F1 9.50 Tf 0.125 0.216 0.282 rg 1 0 0 1 60.00 353.00 Tm (Average year built) Tj ET
+BT /F2 10.00 Tf 0.078 0.490 0.573 rg 1 0 0 1 305.00 353.00 Tm (0.681) Tj ET
+BT /F1 9.00 Tf 0.251 0.349 0.416 rg 1 0 0 1 365.00 353.00 Tm (Positive alignment) Tj ET
+BT /F1 9.50 Tf 0.125 0.216 0.282 rg 1 0 0 1 60.00 328.00 Tm (Average lot area) Tj ET
+BT /F2 10.00 Tf 0.078 0.490 0.573 rg 1 0 0 1 305.00 328.00 Tm (0.570) Tj ET
+BT /F1 9.00 Tf 0.251 0.349 0.416 rg 1 0 0 1 365.00 328.00 Tm (Positive, less consistent alignment) Tj ET
+q
+1.000 0.965 0.910 rg
+0.906 0.835 0.694 RG
+0.60 w
+52.00 195.00 508.00 98.00 re
+B
+Q
+BT /F2 10.00 Tf 0.412 0.298 0.110 rg 1 0 0 1 66.00 269.00 Tm (Reading the results carefully) Tj ET
+BT /F1 8.80 Tf 0.357 0.290 0.169 rg 1 0 0 1 66.00 250.00 Tm (A positive rho means neighborhoods with higher ranks on one measure tended to have) Tj ET
+BT /F1 8.80 Tf 0.357 0.290 0.169 rg 1 0 0 1 66.00 238.00 Tm (higher ranks on the other. Neighborhood means can hide differences between) Tj ET
+BT /F1 8.80 Tf 0.357 0.290 0.169 rg 1 0 0 1 66.00 226.00 Tm (individual homes. Landmrk has only 1 sale and GrnHill 2, so their neighborhood) Tj ET
+BT /F1 8.80 Tf 0.357 0.290 0.169 rg 1 0 0 1 66.00 214.00 Tm (estimates are especially uncertain. The associations do not establish cause and) Tj ET
+BT /F1 8.80 Tf 0.357 0.290 0.169 rg 1 0 0 1 66.00 202.00 Tm (effect.) Tj ET
+q 0.847 0.882 0.910 RG 0.50 w 48.00 36.00 m 564.00 36.00 l S Q
+BT /F1 8.00 Tf 0.408 0.482 0.533 rg 1 0 0 1 48.00 19.00 Tm (Ames Housing neighborhood analysis) Tj ET
+BT /F1 8.00 Tf 0.408 0.482 0.533 rg 1 0 0 1 559.84 19.00 Tm (3) Tj ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Length 17769 >>
+stream
+q
+1.000 1.000 1.000 rg
+0.00 0.00 612.00 792.00 re
+f
+Q
+BT /F2 8.00 Tf 0.078 0.490 0.573 rg 1 0 0 1 52.00 757.00 Tm (FINAL REPORT  /  AMES HOUSING) Tj ET
+BT /F2 20.00 Tf 0.090 0.196 0.302 rg 1 0 0 1 52.00 717.00 Tm (Summary table) Tj ET
+BT /F1 9.40 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 691.00 Tm (Neighborhood summaries sorted from highest to lowest median sale price. The table includes) Tj ET
+BT /F1 9.40 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 678.00 Tm (sales count and average year built, lot area, and overall quality.) Tj ET
+q
+1.000 1.000 1.000 rg
+48.00 568.29 45.66 45.66 re
+f
+Q
+BT /F2 11.76 Tf 0.090 0.196 0.302 rg 1 0 0 1 58.96 598.43 Tm (Ames Housing by Neighborhood) Tj ET
+BT /F1 6.65 Tf 0.314 0.392 0.467 rg 1 0 0 1 58.96 587.93 Tm (Ranked by median sale price ∑ summary across 2,930 sales) Tj ET
+q
+0.141 0.290 0.408 rg
+48.00 561.90 516.00 19.18 re
+f
+Q
+BT /F2 6.65 Tf 1.000 1.000 1.000 rg 1 0 0 1 53.48 569.20 Tm (Neighborhood) Tj ET
+BT /F2 6.65 Tf 1.000 1.000 1.000 rg 1 0 0 1 121.98 569.20 Tm (Number of sales) Tj ET
+BT /F2 6.65 Tf 1.000 1.000 1.000 rg 1 0 0 1 199.60 569.20 Tm (Median sale price) Tj ET
+BT /F2 6.65 Tf 1.000 1.000 1.000 rg 1 0 0 1 286.36 569.20 Tm (Average year built) Tj ET
+BT /F2 6.65 Tf 1.000 1.000 1.000 rg 1 0 0 1 368.56 569.20 Tm (Average lot area \(sq. ft.\)) Tj ET
+BT /F2 6.65 Tf 1.000 1.000 1.000 rg 1 0 0 1 469.02 569.20 Tm (Average overall quality) Tj ET
+q
+0.933 0.957 0.969 rg
+48.00 546.37 516.00 15.53 re
+f
+Q
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 53.48 551.85 Tm (StoneBr) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 121.98 551.85 Tm (51) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 199.60 551.85 Tm ($319,000) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 286.36 551.85 Tm (1999.4) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 368.56 551.85 Tm (11,383) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 469.02 551.85 Tm (8.4) Tj ET
+q 0.843 0.878 0.902 RG 0.46 w 48.00 546.37 m 564.00 546.37 l S Q
+q
+1.000 1.000 1.000 rg
+48.00 530.85 516.00 15.53 re
+f
+Q
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 53.48 536.33 Tm (NridgHt) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 121.98 536.33 Tm (166) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 199.60 536.33 Tm ($317,750) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 286.36 536.33 Tm (2005.6) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 368.56 536.33 Tm (11,217) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 469.02 536.33 Tm (8.3) Tj ET
+q 0.843 0.878 0.902 RG 0.46 w 48.00 530.85 m 564.00 530.85 l S Q
+q
+0.933 0.957 0.969 rg
+48.00 515.32 516.00 15.53 re
+f
+Q
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 53.48 520.80 Tm (NoRidge) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 121.98 520.80 Tm (71) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 199.60 520.80 Tm ($302,000) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 286.36 520.80 Tm (1995.4) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 368.56 520.80 Tm (12,976) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 469.02 520.80 Tm (7.9) Tj ET
+q 0.843 0.878 0.902 RG 0.46 w 48.00 515.32 m 564.00 515.32 l S Q
+q
+1.000 1.000 1.000 rg
+48.00 499.79 516.00 15.53 re
+f
+Q
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 53.48 505.27 Tm (GrnHill) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 121.98 505.27 Tm (2) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 199.60 505.27 Tm ($280,000) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 286.36 505.27 Tm (1992.0) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 368.56 505.27 Tm (9,001) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 469.02 505.27 Tm (7.0) Tj ET
+q 0.843 0.878 0.902 RG 0.46 w 48.00 499.79 m 564.00 499.79 l S Q
+q
+0.933 0.957 0.969 rg
+48.00 484.27 516.00 15.53 re
+f
+Q
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 53.48 489.75 Tm (Veenker) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 121.98 489.75 Tm (24) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 199.60 489.75 Tm ($250,250) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 286.36 489.75 Tm (1981.7) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 368.56 489.75 Tm (15,482) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 469.02 489.75 Tm (7.2) Tj ET
+q 0.843 0.878 0.902 RG 0.46 w 48.00 484.27 m 564.00 484.27 l S Q
+q
+1.000 1.000 1.000 rg
+48.00 468.74 516.00 15.53 re
+f
+Q
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 53.48 474.22 Tm (Timber) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 121.98 474.22 Tm (72) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 199.60 474.22 Tm ($232,106) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 286.36 474.22 Tm (1995.3) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 368.56 474.22 Tm (18,234) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 469.02 474.22 Tm (7.2) Tj ET
+q 0.843 0.878 0.902 RG 0.46 w 48.00 468.74 m 564.00 468.74 l S Q
+q
+0.933 0.957 0.969 rg
+48.00 453.22 516.00 15.53 re
+f
+Q
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 53.48 458.70 Tm (Somerst) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 121.98 458.70 Tm (182) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 199.60 458.70 Tm ($225,500) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 286.36 458.70 Tm (2004.6) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 368.56 458.70 Tm (7,611) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 469.02 458.70 Tm (7.4) Tj ET
+q 0.843 0.878 0.902 RG 0.46 w 48.00 453.22 m 564.00 453.22 l S Q
+q
+1.000 1.000 1.000 rg
+48.00 437.69 516.00 15.53 re
+f
+Q
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 53.48 443.17 Tm (Crawfor) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 121.98 443.17 Tm (103) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 199.60 443.17 Tm ($200,624) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 286.36 443.17 Tm (1946.8) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 368.56 443.17 Tm (11,650) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 469.02 443.17 Tm (6.3) Tj ET
+q 0.843 0.878 0.902 RG 0.46 w 48.00 437.69 m 564.00 437.69 l S Q
+q
+0.933 0.957 0.969 rg
+48.00 422.17 516.00 15.53 re
+f
+Q
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 53.48 427.65 Tm (CollgCr) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 121.98 427.65 Tm (267) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 199.60 427.65 Tm ($200,000) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 286.36 427.65 Tm (1997.9) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 368.56 427.65 Tm (10,000) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 469.02 427.65 Tm (6.7) Tj ET
+q 0.843 0.878 0.902 RG 0.46 w 48.00 422.17 m 564.00 422.17 l S Q
+q
+1.000 1.000 1.000 rg
+48.00 406.64 516.00 15.53 re
+f
+Q
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 53.48 412.12 Tm (Greens) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 121.98 412.12 Tm (8) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 199.60 412.12 Tm ($198,000) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 286.36 412.12 Tm (1979.4) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 368.56 412.12 Tm (3,884) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 469.02 412.12 Tm (8.0) Tj ET
+q 0.843 0.878 0.902 RG 0.46 w 48.00 406.64 m 564.00 406.64 l S Q
+q
+0.933 0.957 0.969 rg
+48.00 391.12 516.00 15.53 re
+f
+Q
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 53.48 396.59 Tm (ClearCr) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 121.98 396.59 Tm (44) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 199.60 396.59 Tm ($197,500) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 286.36 396.59 Tm (1966.8) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 368.56 396.59 Tm (24,842) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 469.02 396.59 Tm (6.0) Tj ET
+q 0.843 0.878 0.902 RG 0.46 w 48.00 391.12 m 564.00 391.12 l S Q
+q
+1.000 1.000 1.000 rg
+48.00 375.59 516.00 15.53 re
+f
+Q
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 53.48 381.07 Tm (Blmngtn) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 121.98 381.07 Tm (28) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 199.60 381.07 Tm ($191,500) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 286.36 381.07 Tm (2005.0) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 368.56 381.07 Tm (3,399) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 469.02 381.07 Tm (7.1) Tj ET
+q 0.843 0.878 0.902 RG 0.46 w 48.00 375.59 m 564.00 375.59 l S Q
+q
+0.933 0.957 0.969 rg
+48.00 360.06 516.00 15.53 re
+f
+Q
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 53.48 365.54 Tm (Gilbert) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 121.98 365.54 Tm (165) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 199.60 365.54 Tm ($183,000) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 286.36 365.54 Tm (1998.3) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 368.56 365.54 Tm (11,342) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 469.02 365.54 Tm (6.5) Tj ET
+q 0.843 0.878 0.902 RG 0.46 w 48.00 360.06 m 564.00 360.06 l S Q
+q
+1.000 1.000 1.000 rg
+48.00 344.54 516.00 15.53 re
+f
+Q
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 53.48 350.02 Tm (NWAmes) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 121.98 350.02 Tm (131) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 199.60 350.02 Tm ($181,000) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 286.36 350.02 Tm (1975.6) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 368.56 350.02 Tm (11,662) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 469.02 350.02 Tm (6.3) Tj ET
+q 0.843 0.878 0.902 RG 0.46 w 48.00 344.54 m 564.00 344.54 l S Q
+q
+0.933 0.957 0.969 rg
+48.00 329.01 516.00 15.53 re
+f
+Q
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 53.48 334.49 Tm (SawyerW) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 121.98 334.49 Tm (125) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 199.60 334.49 Tm ($180,000) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 286.36 334.49 Tm (1990.2) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 368.56 334.49 Tm (10,155) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 469.02 334.49 Tm (6.3) Tj ET
+q 0.843 0.878 0.902 RG 0.46 w 48.00 329.01 m 564.00 329.01 l S Q
+q
+1.000 1.000 1.000 rg
+48.00 313.49 516.00 15.53 re
+f
+Q
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 53.48 318.97 Tm (Mitchel) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 121.98 318.97 Tm (114) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 199.60 318.97 Tm ($153,500) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 286.36 318.97 Tm (1981.9) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 368.56 318.97 Tm (12,020) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 469.02 318.97 Tm (5.5) Tj ET
+q 0.843 0.878 0.902 RG 0.46 w 48.00 313.49 m 564.00 313.49 l S Q
+q
+0.933 0.957 0.969 rg
+48.00 297.96 516.00 15.53 re
+f
+Q
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 53.48 303.44 Tm (NPkVill) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 121.98 303.44 Tm (23) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 199.60 303.44 Tm ($143,750) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 286.36 303.44 Tm (1976.3) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 368.56 303.44 Tm (2,756) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 469.02 303.44 Tm (6.3) Tj ET
+q 0.843 0.878 0.902 RG 0.46 w 48.00 297.96 m 564.00 297.96 l S Q
+q
+1.000 1.000 1.000 rg
+48.00 282.44 516.00 15.53 re
+f
+Q
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 53.48 287.92 Tm (NAmes) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 121.98 287.92 Tm (443) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 199.60 287.92 Tm ($140,000) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 286.36 287.92 Tm (1959.9) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 368.56 287.92 Tm (10,040) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 469.02 287.92 Tm (5.3) Tj ET
+q 0.843 0.878 0.902 RG 0.46 w 48.00 282.44 m 564.00 282.44 l S Q
+q
+0.933 0.957 0.969 rg
+48.00 266.91 516.00 15.53 re
+f
+Q
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 53.48 272.39 Tm (Landmrk) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 121.98 272.39 Tm (1) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 199.60 272.39 Tm ($137,000) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 286.36 272.39 Tm (1993.0) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 368.56 272.39 Tm (3,612) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 469.02 272.39 Tm (6.0) Tj ET
+q 0.843 0.878 0.902 RG 0.46 w 48.00 266.91 m 564.00 266.91 l S Q
+q
+1.000 1.000 1.000 rg
+48.00 251.38 516.00 15.53 re
+f
+Q
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 53.48 256.86 Tm (SWISU) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 121.98 256.86 Tm (48) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 199.60 256.86 Tm ($136,200) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 286.36 256.86 Tm (1930.4) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 368.56 256.86 Tm (7,615) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 469.02 256.86 Tm (5.4) Tj ET
+q 0.843 0.878 0.902 RG 0.46 w 48.00 251.38 m 564.00 251.38 l S Q
+q
+0.933 0.957 0.969 rg
+48.00 235.86 516.00 15.53 re
+f
+Q
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 53.48 241.34 Tm (Sawyer) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 121.98 241.34 Tm (151) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 199.60 241.34 Tm ($135,000) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 286.36 241.34 Tm (1962.9) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 368.56 241.34 Tm (10,372) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 469.02 241.34 Tm (5.1) Tj ET
+q 0.843 0.878 0.902 RG 0.46 w 48.00 235.86 m 564.00 235.86 l S Q
+q
+1.000 1.000 1.000 rg
+48.00 220.33 516.00 15.53 re
+f
+Q
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 53.48 225.81 Tm (Blueste) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 121.98 225.81 Tm (10) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 199.60 225.81 Tm ($130,500) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 286.36 225.81 Tm (1982.6) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 368.56 225.81 Tm (2,346) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 469.02 225.81 Tm (6.6) Tj ET
+q 0.843 0.878 0.902 RG 0.46 w 48.00 220.33 m 564.00 220.33 l S Q
+q
+0.933 0.957 0.969 rg
+48.00 204.81 516.00 15.53 re
+f
+Q
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 53.48 210.29 Tm (BrkSide) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 121.98 210.29 Tm (108) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 199.60 210.29 Tm ($126,750) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 286.36 210.29 Tm (1932.4) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 368.56 210.29 Tm (6,960) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 469.02 210.29 Tm (5.1) Tj ET
+q 0.843 0.878 0.902 RG 0.46 w 48.00 204.81 m 564.00 204.81 l S Q
+q
+1.000 1.000 1.000 rg
+48.00 189.28 516.00 15.53 re
+f
+Q
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 53.48 194.76 Tm (Edwards) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 121.98 194.76 Tm (194) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 199.60 194.76 Tm ($125,000) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 286.36 194.76 Tm (1956.9) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 368.56 194.76 Tm (10,356) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 469.02 194.76 Tm (5.1) Tj ET
+q 0.843 0.878 0.902 RG 0.46 w 48.00 189.28 m 564.00 189.28 l S Q
+q
+0.933 0.957 0.969 rg
+48.00 173.76 516.00 15.53 re
+f
+Q
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 53.48 179.24 Tm (OldTown) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 121.98 179.24 Tm (239) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 199.60 179.24 Tm ($119,900) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 286.36 179.24 Tm (1922.3) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 368.56 179.24 Tm (8,241) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 469.02 179.24 Tm (5.2) Tj ET
+q 0.843 0.878 0.902 RG 0.46 w 48.00 173.76 m 564.00 173.76 l S Q
+q
+1.000 1.000 1.000 rg
+48.00 158.23 516.00 15.53 re
+f
+Q
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 53.48 163.71 Tm (IDOTRR) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 121.98 163.71 Tm (93) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 199.60 163.71 Tm ($106,500) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 286.36 163.71 Tm (1927.7) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 368.56 163.71 Tm (8,826) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 469.02 163.71 Tm (4.7) Tj ET
+q 0.843 0.878 0.902 RG 0.46 w 48.00 158.23 m 564.00 158.23 l S Q
+q
+0.933 0.957 0.969 rg
+48.00 142.70 516.00 15.53 re
+f
+Q
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 53.48 148.18 Tm (BrDale) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 121.98 148.18 Tm (30) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 199.60 148.18 Tm ($106,000) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 286.36 148.18 Tm (1971.8) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 368.56 148.18 Tm (1,841) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 469.02 148.18 Tm (5.7) Tj ET
+q 0.843 0.878 0.902 RG 0.46 w 48.00 142.70 m 564.00 142.70 l S Q
+q
+1.000 1.000 1.000 rg
+48.00 127.18 516.00 15.53 re
+f
+Q
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 53.48 132.66 Tm (MeadowV) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 121.98 132.66 Tm (37) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 199.60 132.66 Tm ($88,250) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 286.36 132.66 Tm (1972.2) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 368.56 132.66 Tm (2,109) Tj ET
+BT /F1 6.65 Tf 0.094 0.169 0.227 rg 1 0 0 1 469.02 132.66 Tm (4.4) Tj ET
+q 0.843 0.878 0.902 RG 0.46 w 48.00 127.18 m 564.00 127.18 l S Q
+BT /F1 8.00 Tf 0.376 0.455 0.510 rg 1 0 0 1 52.00 56.00 Tm (Source: cleaned Ames housing dataset; 2,930 sales in 28 neighborhoods.) Tj ET
+q 0.847 0.882 0.910 RG 0.50 w 48.00 36.00 m 564.00 36.00 l S Q
+BT /F1 8.00 Tf 0.408 0.482 0.533 rg 1 0 0 1 48.00 19.00 Tm (Ames Housing neighborhood analysis) Tj ET
+BT /F1 8.00 Tf 0.408 0.482 0.533 rg 1 0 0 1 559.84 19.00 Tm (4) Tj ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 13 0 R >>
+endobj
+15 0 obj
+<< /Length 12771 >>
+stream
+q
+1.000 1.000 1.000 rg
+0.00 0.00 612.00 792.00 re
+f
+Q
+BT /F2 8.00 Tf 0.078 0.490 0.573 rg 1 0 0 1 52.00 757.00 Tm (FINAL REPORT  /  AMES HOUSING) Tj ET
+BT /F2 20.00 Tf 0.090 0.196 0.302 rg 1 0 0 1 52.00 717.00 Tm (Visualization 1 - median sale price) Tj ET
+BT /F1 9.40 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 691.00 Tm (The dot plot ranks neighborhoods by median sale price. The count beside each label shows how) Tj ET
+BT /F1 9.40 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 678.00 Tm (many sales contribute to that neighborhood summary.) Tj ET
+q
+1.000 1.000 1.000 rg
+48.00 569.06 47.78 47.78 re
+f
+Q
+BT /F2 12.84 Tf 0.090 0.196 0.302 rg 1 0 0 1 76.67 596.77 Tm (Typical sale price by neighborhood) Tj ET
+BT /F1 7.49 Tf 0.322 0.404 0.475 rg 1 0 0 1 76.67 584.34 Tm (Median sale price; sales count shown beside each neighborhood) Tj ET
+q 0.863 0.898 0.922 RG 0.48 w 148.33 564.28 m 148.33 153.39 l S Q
+BT /F1 6.42 Tf 0.322 0.404 0.475 rg 1 0 0 1 143.32 140.49 Tm ($0k) Tj ET
+q 0.863 0.898 0.922 RG 0.48 w 204.66 564.28 m 204.66 153.39 l S Q
+BT /F1 6.42 Tf 0.322 0.404 0.475 rg 1 0 0 1 197.99 140.49 Tm ($50k) Tj ET
+q 0.863 0.898 0.922 RG 0.48 w 260.95 564.28 m 260.95 153.39 l S Q
+BT /F1 6.42 Tf 0.322 0.404 0.475 rg 1 0 0 1 252.60 140.49 Tm ($100k) Tj ET
+q 0.863 0.898 0.922 RG 0.48 w 317.28 564.28 m 317.28 153.39 l S Q
+BT /F1 6.42 Tf 0.322 0.404 0.475 rg 1 0 0 1 308.93 140.49 Tm ($150k) Tj ET
+q 0.863 0.898 0.922 RG 0.48 w 373.56 564.28 m 373.56 153.39 l S Q
+BT /F1 6.42 Tf 0.322 0.404 0.475 rg 1 0 0 1 365.21 140.49 Tm ($200k) Tj ET
+q 0.863 0.898 0.922 RG 0.48 w 429.89 564.28 m 429.89 153.39 l S Q
+BT /F1 6.42 Tf 0.322 0.404 0.475 rg 1 0 0 1 421.54 140.49 Tm ($250k) Tj ET
+q 0.863 0.898 0.922 RG 0.48 w 486.17 564.28 m 486.17 153.39 l S Q
+BT /F1 6.42 Tf 0.322 0.404 0.475 rg 1 0 0 1 477.82 140.49 Tm ($300k) Tj ET
+q 0.863 0.898 0.922 RG 0.48 w 542.50 564.28 m 542.50 153.39 l S Q
+BT /F1 6.42 Tf 0.322 0.404 0.475 rg 1 0 0 1 534.15 140.49 Tm ($350k) Tj ET
+BT /F1 6.42 Tf 0.133 0.231 0.298 rg 1 0 0 1 94.90 555.01 Tm (StoneBr \(n=51\)) Tj ET
+q 0.749 0.816 0.855 RG 0.96 w 148.33 556.92 m 507.57 556.92 l S Q
+q
+0.078 0.490 0.573 rg
+510.44 556.92 m 510.44 558.50 509.16 559.79 507.57 559.79 c 505.99 559.79 504.71 558.50 504.71 556.92 c 504.71 555.34 505.99 554.05 507.57 554.05 c 509.16 554.05 510.44 555.34 510.44 556.92 c
+f
+Q
+BT /F1 6.42 Tf 0.133 0.231 0.298 rg 1 0 0 1 91.56 540.34 Tm (NridgHt \(n=166\)) Tj ET
+q 0.749 0.816 0.855 RG 0.96 w 148.33 542.25 m 506.19 542.25 l S Q
+q
+0.078 0.490 0.573 rg
+509.06 542.25 m 509.06 543.84 507.77 545.12 506.19 545.12 c 504.61 545.12 503.32 543.84 503.32 542.25 c 503.32 540.67 504.61 539.39 506.19 539.39 c 507.77 539.39 509.06 540.67 509.06 542.25 c
+f
+Q
+BT /F1 6.42 Tf 0.133 0.231 0.298 rg 1 0 0 1 94.90 525.67 Tm (NoRidge \(n=71\)) Tj ET
+q 0.749 0.816 0.855 RG 0.96 w 148.33 527.58 m 488.46 527.58 l S Q
+q
+0.078 0.490 0.573 rg
+491.33 527.58 m 491.33 529.17 490.05 530.45 488.46 530.45 c 486.88 530.45 485.60 529.17 485.60 527.58 c 485.60 526.00 486.88 524.72 488.46 524.72 c 490.05 524.72 491.33 526.00 491.33 527.58 c
+f
+Q
+BT /F1 6.42 Tf 0.133 0.231 0.298 rg 1 0 0 1 98.24 511.01 Tm (GrnHill \(n=2\)) Tj ET
+q 0.749 0.816 0.855 RG 0.96 w 148.33 512.92 m 463.67 512.92 l S Q
+q
+0.078 0.490 0.573 rg
+466.53 512.92 m 466.53 514.50 465.25 515.78 463.67 515.78 c 462.08 515.78 460.80 514.50 460.80 512.92 c 460.80 511.33 462.08 510.05 463.67 510.05 c 465.25 510.05 466.53 511.33 466.53 512.92 c
+f
+Q
+BT /F1 6.42 Tf 0.133 0.231 0.298 rg 1 0 0 1 94.90 496.34 Tm (Veenker \(n=24\)) Tj ET
+q 0.749 0.816 0.855 RG 0.96 w 148.33 498.25 m 430.17 498.25 l S Q
+q
+0.078 0.490 0.573 rg
+433.04 498.25 m 433.04 499.83 431.76 501.12 430.17 501.12 c 428.59 501.12 427.31 499.83 427.31 498.25 c 427.31 496.67 428.59 495.38 430.17 495.38 c 431.76 495.38 433.04 496.67 433.04 498.25 c
+f
+Q
+BT /F1 6.42 Tf 0.133 0.231 0.298 rg 1 0 0 1 98.24 481.67 Tm (Timber \(n=72\)) Tj ET
+q 0.749 0.816 0.855 RG 0.96 w 148.33 483.58 m 409.73 483.58 l S Q
+q
+0.078 0.490 0.573 rg
+412.59 483.58 m 412.59 485.16 411.31 486.45 409.73 486.45 c 408.14 486.45 406.86 485.16 406.86 483.58 c 406.86 482.00 408.14 480.71 409.73 480.71 c 411.31 480.71 412.59 482.00 412.59 483.58 c
+f
+Q
+BT /F1 6.42 Tf 0.133 0.231 0.298 rg 1 0 0 1 91.56 467.00 Tm (Somerst \(n=182\)) Tj ET
+q 0.749 0.816 0.855 RG 0.96 w 148.33 468.91 m 402.27 468.91 l S Q
+q
+0.078 0.490 0.573 rg
+405.14 468.91 m 405.14 470.50 403.86 471.78 402.27 471.78 c 400.69 471.78 399.41 470.50 399.41 468.91 c 399.41 467.33 400.69 466.05 402.27 466.05 c 403.86 466.05 405.14 467.33 405.14 468.91 c
+f
+Q
+BT /F1 6.42 Tf 0.133 0.231 0.298 rg 1 0 0 1 91.56 452.29 Tm (Crawfor \(n=103\)) Tj ET
+q 0.749 0.816 0.855 RG 0.96 w 148.33 454.20 m 374.27 454.20 l S Q
+q
+0.078 0.490 0.573 rg
+377.14 454.20 m 377.14 455.78 375.86 457.06 374.27 457.06 c 372.69 457.06 371.41 455.78 371.41 454.20 c 371.41 452.61 372.69 451.33 374.27 451.33 c 375.86 451.33 377.14 452.61 377.14 454.20 c
+f
+Q
+BT /F1 6.42 Tf 0.133 0.231 0.298 rg 1 0 0 1 91.56 437.62 Tm (CollgCr \(n=267\)) Tj ET
+q 0.749 0.816 0.855 RG 0.96 w 148.33 439.53 m 373.56 439.53 l S Q
+q
+0.078 0.490 0.573 rg
+376.42 439.53 m 376.42 441.11 375.14 442.40 373.56 442.40 c 371.97 442.40 370.69 441.11 370.69 439.53 c 370.69 437.95 371.97 436.66 373.56 436.66 c 375.14 436.66 376.42 437.95 376.42 439.53 c
+f
+Q
+BT /F1 6.42 Tf 0.133 0.231 0.298 rg 1 0 0 1 101.58 422.95 Tm (Greens \(n=8\)) Tj ET
+q 0.749 0.816 0.855 RG 0.96 w 148.33 424.86 m 371.31 424.86 l S Q
+q
+0.078 0.490 0.573 rg
+374.18 424.86 m 374.18 426.45 372.90 427.73 371.31 427.73 c 369.73 427.73 368.45 426.45 368.45 424.86 c 368.45 423.28 369.73 422.00 371.31 422.00 c 372.90 422.00 374.18 423.28 374.18 424.86 c
+f
+Q
+BT /F1 6.42 Tf 0.133 0.231 0.298 rg 1 0 0 1 94.90 408.28 Tm (ClearCr \(n=44\)) Tj ET
+q 0.749 0.816 0.855 RG 0.96 w 148.33 410.19 m 370.74 410.19 l S Q
+q
+0.078 0.490 0.573 rg
+373.61 410.19 m 373.61 411.78 372.32 413.06 370.74 413.06 c 369.16 413.06 367.87 411.78 367.87 410.19 c 367.87 408.61 369.16 407.33 370.74 407.33 c 372.32 407.33 373.61 408.61 373.61 410.19 c
+f
+Q
+BT /F1 6.42 Tf 0.133 0.231 0.298 rg 1 0 0 1 94.90 393.62 Tm (Blmngtn \(n=28\)) Tj ET
+q 0.749 0.816 0.855 RG 0.96 w 148.33 395.53 m 364.00 395.53 l S Q
+q
+0.078 0.490 0.573 rg
+366.87 395.53 m 366.87 397.11 365.59 398.39 364.00 398.39 c 362.42 398.39 361.14 397.11 361.14 395.53 c 361.14 393.94 362.42 392.66 364.00 392.66 c 365.59 392.66 366.87 393.94 366.87 395.53 c
+f
+Q
+BT /F1 6.42 Tf 0.133 0.231 0.298 rg 1 0 0 1 91.56 378.95 Tm (Gilbert \(n=165\)) Tj ET
+q 0.749 0.816 0.855 RG 0.96 w 148.33 380.86 m 354.45 380.86 l S Q
+q
+0.078 0.490 0.573 rg
+357.31 380.86 m 357.31 382.44 356.03 383.73 354.45 383.73 c 352.86 383.73 351.58 382.44 351.58 380.86 c 351.58 379.28 352.86 377.99 354.45 377.99 c 356.03 377.99 357.31 379.28 357.31 380.86 c
+f
+Q
+BT /F1 6.42 Tf 0.133 0.231 0.298 rg 1 0 0 1 94.90 364.28 Tm (NWAmes \(n=131\)) Tj ET
+q 0.749 0.816 0.855 RG 0.96 w 148.33 366.19 m 352.15 366.19 l S Q
+q
+0.078 0.490 0.573 rg
+355.02 366.19 m 355.02 367.77 353.74 369.06 352.15 369.06 c 350.57 369.06 349.29 367.77 349.29 366.19 c 349.29 364.61 350.57 363.32 352.15 363.32 c 353.74 363.32 355.02 364.61 355.02 366.19 c
+f
+Q
+BT /F1 6.42 Tf 0.133 0.231 0.298 rg 1 0 0 1 91.56 349.56 Tm (SawyerW \(n=125\)) Tj ET
+q 0.749 0.816 0.855 RG 0.96 w 148.33 351.48 m 351.05 351.48 l S Q
+q
+0.078 0.490 0.573 rg
+353.92 351.48 m 353.92 353.06 352.64 354.34 351.05 354.34 c 349.47 354.34 348.19 353.06 348.19 351.48 c 348.19 349.89 349.47 348.61 351.05 348.61 c 352.64 348.61 353.92 349.89 353.92 351.48 c
+f
+Q
+BT /F1 6.42 Tf 0.133 0.231 0.298 rg 1 0 0 1 91.56 334.90 Tm (Mitchel \(n=114\)) Tj ET
+q 0.749 0.816 0.855 RG 0.96 w 148.33 336.81 m 321.19 336.81 l S Q
+q
+0.078 0.490 0.573 rg
+324.06 336.81 m 324.06 338.39 322.78 339.67 321.19 339.67 c 319.61 339.67 318.33 338.39 318.33 336.81 c 318.33 335.22 319.61 333.94 321.19 333.94 c 322.78 333.94 324.06 335.22 324.06 336.81 c
+f
+Q
+BT /F1 6.42 Tf 0.133 0.231 0.298 rg 1 0 0 1 94.90 320.23 Tm (NPkVill \(n=23\)) Tj ET
+q 0.749 0.816 0.855 RG 0.96 w 148.33 322.14 m 310.20 322.14 l S Q
+q
+0.078 0.490 0.573 rg
+313.07 322.14 m 313.07 323.72 311.79 325.01 310.20 325.01 c 308.62 325.01 307.34 323.72 307.34 322.14 c 307.34 320.56 308.62 319.27 310.20 319.27 c 311.79 319.27 313.07 320.56 313.07 322.14 c
+f
+Q
+BT /F1 6.42 Tf 0.133 0.231 0.298 rg 1 0 0 1 98.24 305.56 Tm (NAmes \(n=443\)) Tj ET
+q 0.749 0.816 0.855 RG 0.96 w 148.33 307.47 m 306.00 307.47 l S Q
+q
+0.078 0.490 0.573 rg
+308.87 307.47 m 308.87 309.06 307.58 310.34 306.00 310.34 c 304.42 310.34 303.13 309.06 303.13 307.47 c 303.13 305.89 304.42 304.61 306.00 304.61 c 307.58 304.61 308.87 305.89 308.87 307.47 c
+f
+Q
+BT /F1 6.42 Tf 0.133 0.231 0.298 rg 1 0 0 1 98.24 290.89 Tm (Landmrk \(n=1\)) Tj ET
+q 0.749 0.816 0.855 RG 0.96 w 148.33 292.80 m 302.61 292.80 l S Q
+q
+0.078 0.490 0.573 rg
+305.47 292.80 m 305.47 294.39 304.19 295.67 302.61 295.67 c 301.02 295.67 299.74 294.39 299.74 292.80 c 299.74 291.22 301.02 289.94 302.61 289.94 c 304.19 289.94 305.47 291.22 305.47 292.80 c
+f
+Q
+BT /F1 6.42 Tf 0.133 0.231 0.298 rg 1 0 0 1 101.58 276.23 Tm (SWISU \(n=48\)) Tj ET
+q 0.749 0.816 0.855 RG 0.96 w 148.33 278.14 m 301.70 278.14 l S Q
+q
+0.078 0.490 0.573 rg
+304.57 278.14 m 304.57 279.72 303.28 281.00 301.70 281.00 c 300.12 281.00 298.83 279.72 298.83 278.14 c 298.83 276.55 300.12 275.27 301.70 275.27 c 303.28 275.27 304.57 276.55 304.57 278.14 c
+f
+Q
+BT /F1 6.42 Tf 0.133 0.231 0.298 rg 1 0 0 1 94.90 261.56 Tm (Sawyer \(n=151\)) Tj ET
+q 0.749 0.816 0.855 RG 0.96 w 148.33 263.47 m 300.36 263.47 l S Q
+q
+0.078 0.490 0.573 rg
+303.23 263.47 m 303.23 265.05 301.95 266.34 300.36 266.34 c 298.78 266.34 297.50 265.05 297.50 263.47 c 297.50 261.89 298.78 260.60 300.36 260.60 c 301.95 260.60 303.23 261.89 303.23 263.47 c
+f
+Q
+BT /F1 6.42 Tf 0.133 0.231 0.298 rg 1 0 0 1 94.90 246.84 Tm (Blueste \(n=10\)) Tj ET
+q 0.749 0.816 0.855 RG 0.96 w 148.33 248.75 m 295.30 248.75 l S Q
+q
+0.078 0.490 0.573 rg
+298.16 248.75 m 298.16 250.34 296.88 251.62 295.30 251.62 c 293.71 251.62 292.43 250.34 292.43 248.75 c 292.43 247.17 293.71 245.89 295.30 245.89 c 296.88 245.89 298.16 247.17 298.16 248.75 c
+f
+Q
+BT /F1 6.42 Tf 0.133 0.231 0.298 rg 1 0 0 1 91.56 232.17 Tm (BrkSide \(n=108\)) Tj ET
+q 0.749 0.816 0.855 RG 0.96 w 148.33 234.09 m 291.09 234.09 l S Q
+q
+0.078 0.490 0.573 rg
+293.96 234.09 m 293.96 235.67 292.68 236.95 291.09 236.95 c 289.51 236.95 288.23 235.67 288.23 234.09 c 288.23 232.50 289.51 231.22 291.09 231.22 c 292.68 231.22 293.96 232.50 293.96 234.09 c
+f
+Q
+BT /F1 6.42 Tf 0.133 0.231 0.298 rg 1 0 0 1 91.56 217.51 Tm (Edwards \(n=194\)) Tj ET
+q 0.749 0.816 0.855 RG 0.96 w 148.33 219.42 m 289.09 219.42 l S Q
+q
+0.078 0.490 0.573 rg
+291.95 219.42 m 291.95 221.00 290.67 222.28 289.09 222.28 c 287.50 222.28 286.22 221.00 286.22 219.42 c 286.22 217.83 287.50 216.55 289.09 216.55 c 290.67 216.55 291.95 217.83 291.95 219.42 c
+f
+Q
+BT /F1 6.42 Tf 0.133 0.231 0.298 rg 1 0 0 1 91.56 202.84 Tm (OldTown \(n=239\)) Tj ET
+q 0.749 0.816 0.855 RG 0.96 w 148.33 204.75 m 283.35 204.75 l S Q
+q
+0.078 0.490 0.573 rg
+286.22 204.75 m 286.22 206.33 284.94 207.62 283.35 207.62 c 281.77 207.62 280.49 206.33 280.49 204.75 c 280.49 203.17 281.77 201.88 283.35 201.88 c 284.94 201.88 286.22 203.17 286.22 204.75 c
+f
+Q
+BT /F1 6.42 Tf 0.133 0.231 0.298 rg 1 0 0 1 98.24 188.17 Tm (IDOTRR \(n=93\)) Tj ET
+q 0.749 0.816 0.855 RG 0.96 w 148.33 190.08 m 268.26 190.08 l S Q
+q
+0.078 0.490 0.573 rg
+271.12 190.08 m 271.12 191.67 269.84 192.95 268.26 192.95 c 266.67 192.95 265.39 191.67 265.39 190.08 c 265.39 188.50 266.67 187.22 268.26 187.22 c 269.84 187.22 271.12 188.50 271.12 190.08 c
+f
+Q
+BT /F1 6.42 Tf 0.133 0.231 0.298 rg 1 0 0 1 98.24 173.50 Tm (BrDale \(n=30\)) Tj ET
+q 0.749 0.816 0.855 RG 0.96 w 148.33 175.41 m 267.73 175.41 l S Q
+q
+0.078 0.490 0.573 rg
+270.60 175.41 m 270.60 177.00 269.31 178.28 267.73 178.28 c 266.15 178.28 264.86 177.00 264.86 175.41 c 264.86 173.83 266.15 172.55 267.73 172.55 c 269.31 172.55 270.60 173.83 270.60 175.41 c
+f
+Q
+BT /F1 6.42 Tf 0.133 0.231 0.298 rg 1 0 0 1 94.90 158.84 Tm (MeadowV \(n=37\)) Tj ET
+q 0.749 0.816 0.855 RG 0.96 w 148.33 160.75 m 247.71 160.75 l S Q
+q
+0.078 0.490 0.573 rg
+250.58 160.75 m 250.58 162.33 249.29 163.61 247.71 163.61 c 246.13 163.61 244.84 162.33 244.84 160.75 c 244.84 159.16 246.13 157.88 247.71 157.88 c 249.29 157.88 250.58 159.16 250.58 160.75 c
+f
+Q
+BT /F1 7.49 Tf 0.133 0.231 0.298 rg 1 0 0 1 275.30 124.72 Tm (Neighborhood median sale price \(USD\)) Tj ET
+BT /F1 8.00 Tf 0.376 0.455 0.510 rg 1 0 0 1 52.00 56.00 Tm (Median is the neighborhood midpoint sale price.) Tj ET
+q 0.847 0.882 0.910 RG 0.50 w 48.00 36.00 m 564.00 36.00 l S Q
+BT /F1 8.00 Tf 0.408 0.482 0.533 rg 1 0 0 1 48.00 19.00 Tm (Ames Housing neighborhood analysis) Tj ET
+BT /F1 8.00 Tf 0.408 0.482 0.533 rg 1 0 0 1 559.84 19.00 Tm (5) Tj ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 15 0 R >>
+endobj
+17 0 obj
+<< /Length 14174 >>
+stream
+q
+1.000 1.000 1.000 rg
+0.00 0.00 612.00 792.00 re
+f
+Q
+BT /F2 8.00 Tf 0.078 0.490 0.573 rg 1 0 0 1 52.00 757.00 Tm (FINAL REPORT  /  AMES HOUSING) Tj ET
+BT /F2 20.00 Tf 0.090 0.196 0.302 rg 1 0 0 1 52.00 717.00 Tm (Visualization 2 - price and overall quality) Tj ET
+BT /F1 9.40 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 691.00 Tm (Each bubble represents a neighborhood. Higher points indicate higher median prices; bubble) Tj ET
+BT /F1 9.40 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 678.00 Tm (size represents sales count. Quality has the strongest rank association with price \(rho =) Tj ET
+BT /F1 9.40 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 665.00 Tm (0.877\).) Tj ET
+q
+1.000 1.000 1.000 rg
+48.00 492.80 43.00 43.00 re
+f
+Q
+BT /F2 11.56 Tf 0.090 0.196 0.302 rg 1 0 0 1 73.80 517.74 Tm (Sale price and overall quality) Tj ET
+BT /F1 6.74 Tf 0.322 0.404 0.475 rg 1 0 0 1 73.80 506.56 Tm (Each point is a neighborhood; bubble size represents number of sales) Tj ET
+q 0.878 0.906 0.925 RG 0.43 w 91.00 228.91 m 465.10 228.91 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 73.82 227.19 Tm ($75k) Tj ET
+q 0.878 0.906 0.925 RG 0.43 w 91.00 253.20 m 465.10 253.20 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 70.81 251.48 Tm ($100k) Tj ET
+q 0.878 0.906 0.925 RG 0.43 w 91.00 277.50 m 465.10 277.50 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 70.81 275.78 Tm ($125k) Tj ET
+q 0.878 0.906 0.925 RG 0.43 w 91.00 301.75 m 465.10 301.75 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 70.81 300.03 Tm ($150k) Tj ET
+q 0.878 0.906 0.925 RG 0.43 w 91.00 326.05 m 465.10 326.05 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 70.81 324.33 Tm ($175k) Tj ET
+q 0.878 0.906 0.925 RG 0.43 w 91.00 350.34 m 465.10 350.34 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 70.81 348.62 Tm ($200k) Tj ET
+q 0.878 0.906 0.925 RG 0.43 w 91.00 374.64 m 465.10 374.64 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 70.81 372.92 Tm ($225k) Tj ET
+q 0.878 0.906 0.925 RG 0.43 w 91.00 398.93 m 465.10 398.93 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 70.81 397.21 Tm ($250k) Tj ET
+q 0.878 0.906 0.925 RG 0.43 w 91.00 423.18 m 465.10 423.18 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 70.81 421.46 Tm ($275k) Tj ET
+q 0.878 0.906 0.925 RG 0.43 w 91.00 447.48 m 465.10 447.48 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 70.81 445.76 Tm ($300k) Tj ET
+q 0.878 0.906 0.925 RG 0.43 w 91.00 471.77 m 465.10 471.77 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 70.81 470.05 Tm ($325k) Tj ET
+q 0.933 0.949 0.961 RG 0.43 w 91.00 486.35 m 91.00 224.05 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 89.50 213.73 Tm (4) Tj ET
+q 0.933 0.949 0.961 RG 0.43 w 165.82 486.35 m 165.82 224.05 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 164.32 213.73 Tm (5) Tj ET
+q 0.933 0.949 0.961 RG 0.43 w 240.64 486.35 m 240.64 224.05 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 239.14 213.73 Tm (6) Tj ET
+q 0.933 0.949 0.961 RG 0.43 w 315.46 486.35 m 315.46 224.05 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 313.96 213.73 Tm (7) Tj ET
+q 0.933 0.949 0.961 RG 0.43 w 390.28 486.35 m 390.28 224.05 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 388.78 213.73 Tm (8) Tj ET
+q 0.933 0.949 0.961 RG 0.43 w 465.10 486.35 m 465.10 224.05 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 463.60 213.73 Tm (9) Tj ET
+BT /F1 6.74 Tf 0.133 0.231 0.298 rg 1 0 0 1 202.67 195.24 Tm (Neighborhood average overall quality \(1ñ10\)) Tj ET
+BT /F1 6.74 Tf 0.133 0.231 0.298 rg 0 1 -1 0 -4.36 355.20 Tm (Neighborhood median sale price \(USD\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+421.41 465.97 m 421.41 467.77 419.95 469.24 418.14 469.24 c 416.34 469.24 414.88 467.77 414.88 465.97 c 414.88 464.16 416.34 462.70 418.14 462.70 c 419.95 462.70 421.41 464.16 421.41 465.97 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 422.01 460.38 Tm (StoneBr \(n=51\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+415.91 464.72 m 415.91 467.43 413.71 469.62 411.01 469.62 c 408.30 469.62 406.10 467.43 406.10 464.72 c 406.10 462.01 408.30 459.82 411.01 459.82 c 413.71 459.82 415.91 462.01 415.91 464.72 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 367.69 468.59 Tm (NridgHt \(n=166\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+388.65 449.41 m 388.65 451.43 387.01 453.07 384.99 453.07 c 382.97 453.07 381.34 451.43 381.34 449.41 c 381.34 447.39 382.97 445.76 384.99 445.76 c 387.01 445.76 388.65 447.39 388.65 449.41 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 388.86 453.28 Tm (NoRidge \(n=71\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+317.14 428.04 m 317.14 428.97 316.39 429.72 315.46 429.72 c 314.53 429.72 313.78 428.97 313.78 428.04 c 313.78 427.12 314.53 426.37 315.46 426.37 c 316.39 426.37 317.14 427.12 317.14 428.04 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 277.41 422.45 Tm (GrnHill \(n=2\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+333.69 399.15 m 333.69 400.62 332.50 401.81 331.03 401.81 c 329.55 401.81 328.36 400.62 328.36 399.15 c 328.36 397.67 329.55 396.48 331.03 396.48 c 332.50 396.48 333.69 397.67 333.69 399.15 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 334.90 403.02 Tm (Veenker \(n=24\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+333.65 381.52 m 333.65 383.53 332.01 385.17 329.99 385.17 c 327.98 385.17 326.34 383.53 326.34 381.52 c 326.34 379.50 327.98 377.86 329.99 377.86 c 332.01 377.86 333.65 379.50 333.65 381.52 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 291.94 385.39 Tm (Timber \(n=72\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+350.55 375.11 m 350.55 377.91 348.28 380.18 345.47 380.18 c 342.67 380.18 340.40 377.91 340.40 375.11 c 340.40 372.31 342.67 370.04 345.47 370.04 c 348.28 370.04 350.55 372.31 350.55 375.11 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 349.34 369.52 Tm (Somerst \(n=182\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+265.11 350.94 m 265.11 353.22 263.26 355.07 260.98 355.07 c 258.70 355.07 256.85 353.22 256.85 350.94 c 256.85 348.66 258.70 346.81 260.98 346.81 c 263.26 346.81 265.11 348.66 265.11 350.94 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 217.67 354.81 Tm (Crawfor \(n=103\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+297.23 350.34 m 297.23 353.57 294.61 356.19 291.38 356.19 c 288.15 356.19 285.53 353.57 285.53 350.34 c 285.53 347.11 288.15 344.49 291.38 344.49 c 294.61 344.49 297.23 347.11 297.23 350.34 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 295.25 354.21 Tm (CollgCr \(n=267\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+392.34 348.41 m 392.34 349.55 391.42 350.47 390.28 350.47 c 389.14 350.47 388.22 349.55 388.22 348.41 c 388.22 347.27 389.14 346.34 390.28 346.34 c 391.42 346.34 392.34 347.27 392.34 348.41 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 354.86 342.82 Tm (Greens \(n=8\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+242.06 347.93 m 242.06 349.67 240.65 351.07 238.92 351.07 c 237.19 351.07 235.78 349.67 235.78 347.93 c 235.78 346.20 237.19 344.79 238.92 344.79 c 240.65 344.79 242.06 346.20 242.06 347.93 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 242.79 351.80 Tm (ClearCr \(n=44\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+328.92 342.09 m 328.92 343.60 327.69 344.84 326.17 344.84 c 324.65 344.84 323.41 343.60 323.41 342.09 c 323.41 340.57 324.65 339.33 326.17 339.33 c 327.69 339.33 328.92 340.57 328.92 342.09 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 285.48 345.96 Tm (Blmngtn \(n=28\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+284.03 333.83 m 284.03 336.51 281.85 338.69 279.17 338.69 c 276.48 338.69 274.31 336.51 274.31 333.83 c 274.31 331.15 276.48 328.97 279.17 328.97 c 281.85 328.97 284.03 331.15 284.03 333.83 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 283.04 328.24 Tm (Gilbert \(n=165\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+270.83 331.89 m 270.83 334.36 268.82 336.37 266.35 336.37 c 263.88 336.37 261.88 334.36 261.88 331.89 c 261.88 329.42 263.88 327.42 266.35 327.42 c 268.82 327.42 270.83 329.42 270.83 331.89 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 225.67 335.76 Tm (NWAmes \(n=131\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+270.22 330.90 m 270.22 333.35 268.24 335.33 265.79 335.33 c 263.35 335.33 261.37 333.35 261.37 330.90 c 261.37 328.46 263.35 326.48 265.79 326.48 c 268.24 326.48 270.22 328.46 270.22 330.90 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 269.66 334.77 Tm (SawyerW \(n=125\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+210.76 305.15 m 210.76 307.50 208.85 309.41 206.50 309.41 c 204.15 309.41 202.24 307.50 202.24 305.15 c 202.24 302.80 204.15 300.89 206.50 300.89 c 208.85 300.89 210.76 302.80 210.76 305.15 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 163.18 299.56 Tm (Mitchel \(n=114\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+262.78 295.69 m 262.78 297.14 261.61 298.31 260.16 298.31 c 258.71 298.31 257.54 297.14 257.54 295.69 c 257.54 294.24 258.71 293.06 260.16 293.06 c 261.61 293.06 262.78 294.24 262.78 295.69 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 264.03 299.56 Tm (NPkVill \(n=23\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+197.98 292.03 m 197.98 296.00 194.77 299.21 190.80 299.21 c 186.84 299.21 183.62 296.00 183.62 292.03 c 183.62 288.07 186.84 284.85 190.80 284.85 c 194.77 284.85 197.98 288.07 197.98 292.03 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 152.75 295.90 Tm (NAmes \(n=443\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+242.19 289.15 m 242.19 290.01 241.49 290.70 240.64 290.70 c 239.79 290.70 239.09 290.01 239.09 289.15 c 239.09 288.30 239.79 287.60 240.64 287.60 c 241.49 287.60 242.19 288.30 242.19 289.15 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 244.51 283.56 Tm (Landmrk \(n=1\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+201.77 288.38 m 201.77 290.16 200.32 291.60 198.54 291.60 c 196.76 291.60 195.32 290.16 195.32 288.38 c 195.32 286.60 196.76 285.15 198.54 285.15 c 200.32 285.15 201.77 286.60 201.77 288.38 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 163.12 292.25 Tm (SWISU \(n=48\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+175.49 287.22 m 175.49 289.83 173.38 291.95 170.76 291.95 c 168.15 291.95 166.03 289.83 166.03 287.22 c 166.03 284.60 168.15 282.49 170.76 282.49 c 173.38 282.49 175.49 284.60 175.49 287.22 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 174.63 291.09 Tm (Sawyer \(n=151\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+287.72 282.83 m 287.72 284.04 286.74 285.02 285.53 285.02 c 284.32 285.02 283.34 284.04 283.34 282.83 c 283.34 281.62 284.32 280.64 285.53 280.64 c 286.74 280.64 287.72 281.62 287.72 282.83 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 244.85 277.24 Tm (Blueste \(n=10\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+179.02 279.18 m 179.02 281.50 177.13 283.39 174.81 283.39 c 172.48 283.39 170.59 281.50 170.59 279.18 c 170.59 276.85 172.48 274.96 174.81 274.96 c 177.13 274.96 179.02 276.85 179.02 279.18 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 178.68 283.05 Tm (BrkSide \(n=108\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+174.89 277.50 m 174.89 280.37 172.56 282.70 169.69 282.70 c 166.82 282.70 164.49 280.37 164.49 277.50 c 164.49 274.63 166.82 272.30 169.69 272.30 c 172.56 272.30 174.89 274.63 174.89 277.50 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 126.38 281.37 Tm (Edwards \(n=194\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+186.76 272.51 m 186.76 275.60 184.26 278.10 181.17 278.10 c 178.08 278.10 175.58 275.60 175.58 272.51 c 175.58 269.42 178.08 266.92 181.17 266.92 c 184.26 266.92 186.76 269.42 186.76 272.51 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 185.04 266.92 Tm (OldTown \(n=239\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+149.69 259.53 m 149.69 261.73 147.90 263.52 145.70 263.52 c 143.49 263.52 141.70 261.73 141.70 259.53 c 141.70 257.32 143.49 255.53 145.70 255.53 c 147.90 255.53 149.69 257.32 149.69 259.53 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 107.64 263.39 Tm (IDOTRR \(n=93\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+223.53 259.01 m 223.53 260.58 222.26 261.85 220.69 261.85 c 219.12 261.85 217.85 260.58 217.85 259.01 c 217.85 257.44 219.12 256.17 220.69 256.17 c 222.26 256.17 223.53 257.44 223.53 259.01 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 224.56 262.88 Tm (BrDale \(n=30\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+122.30 241.77 m 122.30 243.43 120.96 244.78 119.29 244.78 c 117.63 244.78 116.28 243.43 116.28 241.77 c 116.28 240.10 117.63 238.76 119.29 238.76 c 120.96 238.76 122.30 240.10 122.30 241.77 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 78.61 236.18 Tm (MeadowV \(n=37\)) Tj ET
+BT /F2 5.78 Tf 0.161 0.267 0.333 rg 1 0 0 1 480.15 456.25 Tm (Sales count) Tj ET
+q
+0.090 0.518 0.604 rg
+489.27 441.20 m 489.27 442.67 488.07 443.87 486.60 443.87 c 485.13 443.87 483.93 442.67 483.93 441.20 c 483.93 439.73 485.13 438.53 486.60 438.53 c 488.07 438.53 489.27 439.73 489.27 441.20 c
+f
+Q
+BT /F1 5.30 Tf 0.322 0.404 0.475 rg 1 0 0 1 498.21 439.48 Tm (25 sales) Tj ET
+q
+0.090 0.518 0.604 rg
+490.68 417.55 m 490.68 419.81 488.86 421.63 486.60 421.63 c 484.34 421.63 482.51 419.81 482.51 417.55 c 482.51 415.29 484.34 413.47 486.60 413.47 c 488.86 413.47 490.68 415.29 490.68 417.55 c
+f
+Q
+BT /F1 5.30 Tf 0.322 0.404 0.475 rg 1 0 0 1 498.21 415.83 Tm (100 sales) Tj ET
+q
+0.090 0.518 0.604 rg
+492.32 393.90 m 492.32 397.06 489.76 399.62 486.60 399.62 c 483.44 399.62 480.88 397.06 480.88 393.90 c 480.88 390.74 483.44 388.18 486.60 388.18 c 489.76 388.18 492.32 390.74 492.32 393.90 c
+f
+Q
+BT /F1 5.30 Tf 0.322 0.404 0.475 rg 1 0 0 1 498.21 392.18 Tm (250 sales) Tj ET
+BT /F1 8.00 Tf 0.376 0.455 0.510 rg 1 0 0 1 52.00 56.00 Tm (Overall quality is averaged within each neighborhood.) Tj ET
+q 0.847 0.882 0.910 RG 0.50 w 48.00 36.00 m 564.00 36.00 l S Q
+BT /F1 8.00 Tf 0.408 0.482 0.533 rg 1 0 0 1 48.00 19.00 Tm (Ames Housing neighborhood analysis) Tj ET
+BT /F1 8.00 Tf 0.408 0.482 0.533 rg 1 0 0 1 559.84 19.00 Tm (6) Tj ET
+endstream
+endobj
+18 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 17 0 R >>
+endobj
+19 0 obj
+<< /Length 13987 >>
+stream
+q
+1.000 1.000 1.000 rg
+0.00 0.00 612.00 792.00 re
+f
+Q
+BT /F2 8.00 Tf 0.078 0.490 0.573 rg 1 0 0 1 52.00 757.00 Tm (FINAL REPORT  /  AMES HOUSING) Tj ET
+BT /F2 20.00 Tf 0.090 0.196 0.302 rg 1 0 0 1 52.00 717.00 Tm (Visualization 3 - price and year built) Tj ET
+BT /F1 9.40 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 691.00 Tm (This chart compares median sale price with average year built. A later average year means) Tj ET
+BT /F1 9.40 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 678.00 Tm (the neighborhood's homes tend to be newer. The rank association is positive \(rho = 0.681\).) Tj ET
+q
+1.000 1.000 1.000 rg
+48.00 499.30 43.00 43.00 re
+f
+Q
+BT /F2 11.56 Tf 0.090 0.196 0.302 rg 1 0 0 1 73.80 524.24 Tm (Sale price and home vintage) Tj ET
+BT /F1 6.74 Tf 0.322 0.404 0.475 rg 1 0 0 1 73.80 513.06 Tm (Each point is a neighborhood; bubble size represents number of sales) Tj ET
+q 0.878 0.906 0.925 RG 0.43 w 91.00 235.41 m 465.10 235.41 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 73.82 233.69 Tm ($75k) Tj ET
+q 0.878 0.906 0.925 RG 0.43 w 91.00 259.70 m 465.10 259.70 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 70.81 257.98 Tm ($100k) Tj ET
+q 0.878 0.906 0.925 RG 0.43 w 91.00 284.00 m 465.10 284.00 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 70.81 282.28 Tm ($125k) Tj ET
+q 0.878 0.906 0.925 RG 0.43 w 91.00 308.25 m 465.10 308.25 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 70.81 306.53 Tm ($150k) Tj ET
+q 0.878 0.906 0.925 RG 0.43 w 91.00 332.55 m 465.10 332.55 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 70.81 330.83 Tm ($175k) Tj ET
+q 0.878 0.906 0.925 RG 0.43 w 91.00 356.84 m 465.10 356.84 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 70.81 355.12 Tm ($200k) Tj ET
+q 0.878 0.906 0.925 RG 0.43 w 91.00 381.14 m 465.10 381.14 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 70.81 379.42 Tm ($225k) Tj ET
+q 0.878 0.906 0.925 RG 0.43 w 91.00 405.43 m 465.10 405.43 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 70.81 403.71 Tm ($250k) Tj ET
+q 0.878 0.906 0.925 RG 0.43 w 91.00 429.68 m 465.10 429.68 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 70.81 427.96 Tm ($275k) Tj ET
+q 0.878 0.906 0.925 RG 0.43 w 91.00 453.98 m 465.10 453.98 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 70.81 452.26 Tm ($300k) Tj ET
+q 0.878 0.906 0.925 RG 0.43 w 91.00 478.27 m 465.10 478.27 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 70.81 476.55 Tm ($325k) Tj ET
+q 0.933 0.949 0.961 RG 0.43 w 126.65 492.85 m 126.65 230.55 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 120.64 220.23 Tm (1920) Tj ET
+q 0.933 0.949 0.961 RG 0.43 w 197.90 492.85 m 197.90 230.55 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 191.89 220.23 Tm (1940) Tj ET
+q 0.933 0.949 0.961 RG 0.43 w 269.15 492.85 m 269.15 230.55 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 263.14 220.23 Tm (1960) Tj ET
+q 0.933 0.949 0.961 RG 0.43 w 340.40 492.85 m 340.40 230.55 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 334.39 220.23 Tm (1980) Tj ET
+q 0.933 0.949 0.961 RG 0.43 w 411.65 492.85 m 411.65 230.55 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 405.64 220.23 Tm (2000) Tj ET
+BT /F1 6.74 Tf 0.133 0.231 0.298 rg 1 0 0 1 223.71 201.74 Tm (Neighborhood average year built) Tj ET
+BT /F1 6.74 Tf 0.133 0.231 0.298 rg 0 1 -1 0 -4.36 361.70 Tm (Neighborhood median sale price \(USD\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+412.90 472.47 m 412.90 474.27 411.43 475.74 409.63 475.74 c 407.83 475.74 406.36 474.27 406.36 472.47 c 406.36 470.66 407.83 469.20 409.63 469.20 c 411.43 469.20 412.90 470.66 412.90 472.47 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 413.50 466.88 Tm (StoneBr \(n=51\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+436.42 471.22 m 436.42 473.93 434.22 476.12 431.52 476.12 c 428.81 476.12 426.62 473.93 426.62 471.22 c 426.62 468.51 428.81 466.32 431.52 466.32 c 434.22 466.32 436.42 468.51 436.42 471.22 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 388.20 475.09 Tm (NridgHt \(n=166\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+399.01 455.91 m 399.01 457.93 397.37 459.57 395.35 459.57 c 393.34 459.57 391.70 457.93 391.70 455.91 c 391.70 453.89 393.34 452.26 395.35 452.26 c 397.37 452.26 399.01 453.89 399.01 455.91 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 399.22 459.78 Tm (NoRidge \(n=71\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+384.82 434.54 m 384.82 435.47 384.07 436.22 383.14 436.22 c 382.22 436.22 381.46 435.47 381.46 434.54 c 381.46 433.62 382.22 432.87 383.14 432.87 c 384.07 432.87 384.82 433.62 384.82 434.54 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 345.09 428.95 Tm (GrnHill \(n=2\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+349.17 405.65 m 349.17 407.12 347.98 408.31 346.51 408.31 c 345.03 408.31 343.84 407.12 343.84 405.65 c 343.84 404.17 345.03 402.98 346.51 402.98 c 347.98 402.98 349.17 404.17 349.17 405.65 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 350.38 409.52 Tm (Veenker \(n=24\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+398.66 388.02 m 398.66 390.03 397.03 391.67 395.01 391.67 c 392.99 391.67 391.36 390.03 391.36 388.02 c 391.36 386.00 392.99 384.36 395.01 384.36 c 397.03 384.36 398.66 386.00 398.66 388.02 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 356.96 391.89 Tm (Timber \(n=72\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+433.19 381.61 m 433.19 384.41 430.92 386.68 428.12 386.68 c 425.32 386.68 423.05 384.41 423.05 381.61 c 423.05 378.81 425.32 376.54 428.12 376.54 c 430.92 376.54 433.19 378.81 433.19 381.61 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 431.99 376.02 Tm (Somerst \(n=182\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+226.11 357.44 m 226.11 359.72 224.26 361.57 221.98 361.57 c 219.70 361.57 217.85 359.72 217.85 357.44 c 217.85 355.16 219.70 353.31 221.98 353.31 c 224.26 353.31 226.11 355.16 226.11 357.44 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 178.66 361.31 Tm (Crawfor \(n=103\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+410.10 356.84 m 410.10 360.07 407.48 362.69 404.25 362.69 c 401.03 362.69 398.41 360.07 398.41 356.84 c 398.41 353.61 401.03 350.99 404.25 350.99 c 407.48 350.99 410.10 353.61 410.10 356.84 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 408.12 360.71 Tm (CollgCr \(n=267\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+340.23 354.91 m 340.23 356.05 339.30 356.97 338.16 356.97 c 337.02 356.97 336.10 356.05 336.10 354.91 c 336.10 353.77 337.02 352.84 338.16 352.84 c 339.30 352.84 340.23 353.77 340.23 354.91 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 302.74 349.32 Tm (Greens \(n=8\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+296.58 354.43 m 296.58 356.17 295.18 357.57 293.44 357.57 c 291.71 357.57 290.30 356.17 290.30 354.43 c 290.30 352.70 291.71 351.29 293.44 351.29 c 295.18 351.29 296.58 352.70 296.58 354.43 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 297.31 358.30 Tm (ClearCr \(n=44\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+432.33 348.59 m 432.33 350.10 431.10 351.34 429.58 351.34 c 428.06 351.34 426.83 350.10 426.83 348.59 c 426.83 347.07 428.06 345.83 429.58 345.83 c 431.10 345.83 432.33 347.07 432.33 348.59 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 388.90 352.46 Tm (Blmngtn \(n=28\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+410.49 340.33 m 410.49 343.01 408.31 345.19 405.63 345.19 c 402.95 345.19 400.77 343.01 400.77 340.33 c 400.77 337.65 402.95 335.47 405.63 335.47 c 408.31 335.47 410.49 337.65 410.49 340.33 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 409.50 334.74 Tm (Gilbert \(n=165\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+329.13 338.39 m 329.13 340.86 327.13 342.87 324.66 342.87 c 322.19 342.87 320.19 340.86 320.19 338.39 c 320.19 335.92 322.19 333.92 324.66 333.92 c 327.13 333.92 329.13 335.92 329.13 338.39 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 283.98 342.26 Tm (NWAmes \(n=131\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+381.03 337.40 m 381.03 339.85 379.05 341.83 376.61 341.83 c 374.16 341.83 372.18 339.85 372.18 337.40 c 372.18 334.96 374.16 332.98 376.61 332.98 c 379.05 332.98 381.03 334.96 381.03 337.40 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 380.48 341.27 Tm (SawyerW \(n=125\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+351.58 311.65 m 351.58 314.00 349.67 315.91 347.32 315.91 c 344.97 315.91 343.07 314.00 343.07 311.65 c 343.07 309.30 344.97 307.39 347.32 307.39 c 349.67 307.39 351.58 309.30 351.58 311.65 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 304.01 306.06 Tm (Mitchel \(n=114\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+329.86 302.19 m 329.86 303.64 328.69 304.81 327.24 304.81 c 325.79 304.81 324.62 303.64 324.62 302.19 c 324.62 300.74 325.79 299.56 327.24 299.56 c 328.69 299.56 329.86 300.74 329.86 302.19 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 331.11 306.06 Tm (NPkVill \(n=23\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+275.90 298.53 m 275.90 302.50 272.68 305.71 268.72 305.71 c 264.75 305.71 261.54 302.50 261.54 298.53 c 261.54 294.57 264.75 291.35 268.72 291.35 c 272.68 291.35 275.90 294.57 275.90 298.53 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 230.67 302.40 Tm (NAmes \(n=443\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+388.26 295.65 m 388.26 296.51 387.57 297.20 386.71 297.20 c 385.86 297.20 385.16 296.51 385.16 295.65 c 385.16 294.80 385.86 294.10 386.71 294.10 c 387.57 294.10 388.26 294.80 388.26 295.65 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 390.58 290.06 Tm (Landmrk \(n=1\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+166.98 294.88 m 166.98 296.66 165.54 298.10 163.76 298.10 c 161.97 298.10 160.53 296.66 160.53 294.88 c 160.53 293.10 161.97 291.65 163.76 291.65 c 165.54 291.65 166.98 293.10 166.98 294.88 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 128.33 298.75 Tm (SWISU \(n=48\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+284.20 293.72 m 284.20 296.33 282.08 298.45 279.47 298.45 c 276.86 298.45 274.74 296.33 274.74 293.72 c 274.74 291.10 276.86 288.99 279.47 288.99 c 282.08 288.99 284.20 291.10 284.20 293.72 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 283.34 297.59 Tm (Sawyer \(n=151\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+351.84 289.33 m 351.84 290.54 350.86 291.52 349.64 291.52 c 348.43 291.52 347.45 290.54 347.45 289.33 c 347.45 288.12 348.43 287.14 349.64 287.14 c 350.86 287.14 351.84 288.12 351.84 289.33 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 308.96 283.74 Tm (Blueste \(n=10\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+174.89 285.68 m 174.89 288.00 173.01 289.89 170.68 289.89 c 168.35 289.89 166.47 288.00 166.47 285.68 c 166.47 283.35 168.35 281.46 170.68 281.46 c 173.01 281.46 174.89 283.35 174.89 285.68 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 174.55 289.55 Tm (BrkSide \(n=108\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+263.43 284.00 m 263.43 286.87 261.10 289.20 258.23 289.20 c 255.35 289.20 253.02 286.87 253.02 284.00 c 253.02 281.13 255.35 278.80 258.23 278.80 c 261.10 278.80 263.43 281.13 263.43 284.00 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 214.91 287.87 Tm (Edwards \(n=194\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+140.58 279.01 m 140.58 282.10 138.08 284.60 134.99 284.60 c 131.90 284.60 129.40 282.10 129.40 279.01 c 129.40 275.92 131.90 273.42 134.99 273.42 c 138.08 273.42 140.58 275.92 140.58 279.01 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 138.86 273.42 Tm (OldTown \(n=239\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+157.99 266.03 m 157.99 268.23 156.20 270.02 154.00 270.02 c 151.79 270.02 150.00 268.23 150.00 266.03 c 150.00 263.82 151.79 262.03 154.00 262.03 c 156.20 262.03 157.99 263.82 157.99 266.03 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 115.94 269.89 Tm (IDOTRR \(n=93\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+314.13 265.51 m 314.13 267.08 312.86 268.35 311.29 268.35 c 309.72 268.35 308.45 267.08 308.45 265.51 c 308.45 263.94 309.72 262.67 311.29 262.67 c 312.86 262.67 314.13 263.94 314.13 265.51 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 315.16 269.38 Tm (BrDale \(n=30\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+315.76 248.27 m 315.76 249.93 314.41 251.28 312.75 251.28 c 311.09 251.28 309.74 249.93 309.74 248.27 c 309.74 246.60 311.09 245.26 312.75 245.26 c 314.41 245.26 315.76 246.60 315.76 248.27 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 272.07 242.68 Tm (MeadowV \(n=37\)) Tj ET
+BT /F2 5.78 Tf 0.161 0.267 0.333 rg 1 0 0 1 480.15 462.75 Tm (Sales count) Tj ET
+q
+0.090 0.518 0.604 rg
+489.27 447.70 m 489.27 449.17 488.07 450.37 486.60 450.37 c 485.13 450.37 483.93 449.17 483.93 447.70 c 483.93 446.23 485.13 445.03 486.60 445.03 c 488.07 445.03 489.27 446.23 489.27 447.70 c
+f
+Q
+BT /F1 5.30 Tf 0.322 0.404 0.475 rg 1 0 0 1 498.21 445.98 Tm (25 sales) Tj ET
+q
+0.090 0.518 0.604 rg
+490.68 424.05 m 490.68 426.31 488.86 428.13 486.60 428.13 c 484.34 428.13 482.51 426.31 482.51 424.05 c 482.51 421.79 484.34 419.97 486.60 419.97 c 488.86 419.97 490.68 421.79 490.68 424.05 c
+f
+Q
+BT /F1 5.30 Tf 0.322 0.404 0.475 rg 1 0 0 1 498.21 422.33 Tm (100 sales) Tj ET
+q
+0.090 0.518 0.604 rg
+492.32 400.40 m 492.32 403.56 489.76 406.12 486.60 406.12 c 483.44 406.12 480.88 403.56 480.88 400.40 c 480.88 397.24 483.44 394.68 486.60 394.68 c 489.76 394.68 492.32 397.24 492.32 400.40 c
+f
+Q
+BT /F1 5.30 Tf 0.322 0.404 0.475 rg 1 0 0 1 498.21 398.68 Tm (250 sales) Tj ET
+BT /F1 8.00 Tf 0.376 0.455 0.510 rg 1 0 0 1 52.00 56.00 Tm (Average year built is a neighborhood summary, not an individual home age estimate.) Tj ET
+q 0.847 0.882 0.910 RG 0.50 w 48.00 36.00 m 564.00 36.00 l S Q
+BT /F1 8.00 Tf 0.408 0.482 0.533 rg 1 0 0 1 48.00 19.00 Tm (Ames Housing neighborhood analysis) Tj ET
+BT /F1 8.00 Tf 0.408 0.482 0.533 rg 1 0 0 1 559.84 19.00 Tm (7) Tj ET
+endstream
+endobj
+20 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 19 0 R >>
+endobj
+21 0 obj
+<< /Length 14158 >>
+stream
+q
+1.000 1.000 1.000 rg
+0.00 0.00 612.00 792.00 re
+f
+Q
+BT /F2 8.00 Tf 0.078 0.490 0.573 rg 1 0 0 1 52.00 757.00 Tm (FINAL REPORT  /  AMES HOUSING) Tj ET
+BT /F2 20.00 Tf 0.090 0.196 0.302 rg 1 0 0 1 52.00 717.00 Tm (Visualization 4 - price and lot area) Tj ET
+BT /F1 9.40 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 691.00 Tm (This chart compares median sale price with average lot area. The positive rank association) Tj ET
+BT /F1 9.40 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 678.00 Tm (is more moderate \(rho = 0.570\), and large average lots do not always correspond to the) Tj ET
+BT /F1 9.40 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 665.00 Tm (highest median prices.) Tj ET
+q
+1.000 1.000 1.000 rg
+48.00 492.80 43.00 43.00 re
+f
+Q
+BT /F2 11.56 Tf 0.090 0.196 0.302 rg 1 0 0 1 73.80 517.74 Tm (Sale price and lot area) Tj ET
+BT /F1 6.74 Tf 0.322 0.404 0.475 rg 1 0 0 1 73.80 506.56 Tm (Each point is a neighborhood; bubble size represents number of sales) Tj ET
+q 0.878 0.906 0.925 RG 0.43 w 91.00 228.91 m 465.10 228.91 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 73.82 227.19 Tm ($75k) Tj ET
+q 0.878 0.906 0.925 RG 0.43 w 91.00 253.20 m 465.10 253.20 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 70.81 251.48 Tm ($100k) Tj ET
+q 0.878 0.906 0.925 RG 0.43 w 91.00 277.50 m 465.10 277.50 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 70.81 275.78 Tm ($125k) Tj ET
+q 0.878 0.906 0.925 RG 0.43 w 91.00 301.75 m 465.10 301.75 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 70.81 300.03 Tm ($150k) Tj ET
+q 0.878 0.906 0.925 RG 0.43 w 91.00 326.05 m 465.10 326.05 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 70.81 324.33 Tm ($175k) Tj ET
+q 0.878 0.906 0.925 RG 0.43 w 91.00 350.34 m 465.10 350.34 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 70.81 348.62 Tm ($200k) Tj ET
+q 0.878 0.906 0.925 RG 0.43 w 91.00 374.64 m 465.10 374.64 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 70.81 372.92 Tm ($225k) Tj ET
+q 0.878 0.906 0.925 RG 0.43 w 91.00 398.93 m 465.10 398.93 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 70.81 397.21 Tm ($250k) Tj ET
+q 0.878 0.906 0.925 RG 0.43 w 91.00 423.18 m 465.10 423.18 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 70.81 421.46 Tm ($275k) Tj ET
+q 0.878 0.906 0.925 RG 0.43 w 91.00 447.48 m 465.10 447.48 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 70.81 445.76 Tm ($300k) Tj ET
+q 0.878 0.906 0.925 RG 0.43 w 91.00 471.77 m 465.10 471.77 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 70.81 470.05 Tm ($325k) Tj ET
+q 0.933 0.949 0.961 RG 0.43 w 91.00 486.35 m 91.00 224.05 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 89.50 213.73 Tm (0) Tj ET
+q 0.933 0.949 0.961 RG 0.43 w 162.94 486.35 m 162.94 224.05 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 159.93 213.73 Tm (5k) Tj ET
+q 0.933 0.949 0.961 RG 0.43 w 234.88 486.35 m 234.88 224.05 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 230.37 213.73 Tm (10k) Tj ET
+q 0.933 0.949 0.961 RG 0.43 w 306.82 486.35 m 306.82 224.05 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 302.31 213.73 Tm (15k) Tj ET
+q 0.933 0.949 0.961 RG 0.43 w 378.76 486.35 m 378.76 224.05 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 374.25 213.73 Tm (20k) Tj ET
+q 0.933 0.949 0.961 RG 0.43 w 450.69 486.35 m 450.69 224.05 l S Q
+BT /F1 5.78 Tf 0.322 0.404 0.475 rg 1 0 0 1 446.19 213.73 Tm (25k) Tj ET
+BT /F1 6.74 Tf 0.133 0.231 0.298 rg 1 0 0 1 209.68 195.24 Tm (Neighborhood average lot area \(sq. ft.\)) Tj ET
+BT /F1 6.74 Tf 0.133 0.231 0.298 rg 0 1 -1 0 -4.36 355.20 Tm (Neighborhood median sale price \(USD\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+258.05 465.97 m 258.05 467.77 256.59 469.24 254.79 469.24 c 252.98 469.24 251.52 467.77 251.52 465.97 c 251.52 464.16 252.98 462.70 254.79 462.70 c 256.59 462.70 258.05 464.16 258.05 465.97 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 258.66 460.38 Tm (StoneBr \(n=51\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+257.28 464.72 m 257.28 467.43 255.09 469.62 252.38 469.62 c 249.67 469.62 247.48 467.43 247.48 464.72 c 247.48 462.01 249.67 459.82 252.38 459.82 c 255.09 459.82 257.28 462.01 257.28 464.72 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 209.07 468.59 Tm (NridgHt \(n=166\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+281.36 449.41 m 281.36 451.43 279.72 453.07 277.71 453.07 c 275.69 453.07 274.05 451.43 274.05 449.41 c 274.05 447.39 275.69 445.76 277.71 445.76 c 279.72 445.76 281.36 447.39 281.36 449.41 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 281.58 453.28 Tm (NoRidge \(n=71\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+222.19 428.04 m 222.19 428.97 221.44 429.72 220.52 429.72 c 219.59 429.72 218.84 428.97 218.84 428.04 c 218.84 427.12 219.59 426.37 220.52 426.37 c 221.44 426.37 222.19 427.12 222.19 428.04 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 182.46 422.45 Tm (GrnHill \(n=2\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+316.45 399.15 m 316.45 400.62 315.26 401.81 313.78 401.81 c 312.31 401.81 311.12 400.62 311.12 399.15 c 311.12 397.67 312.31 396.48 313.78 396.48 c 315.26 396.48 316.45 397.67 316.45 399.15 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 317.65 403.02 Tm (Veenker \(n=24\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+357.00 381.52 m 357.00 383.53 355.36 385.17 353.34 385.17 c 351.32 385.17 349.69 383.53 349.69 381.52 c 349.69 379.50 351.32 377.86 353.34 377.86 c 355.36 377.86 357.00 379.50 357.00 381.52 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 315.29 385.39 Tm (Timber \(n=72\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+205.59 375.11 m 205.59 377.91 203.32 380.18 200.52 380.18 c 197.72 380.18 195.45 377.91 195.45 375.11 c 195.45 372.31 197.72 370.04 200.52 370.04 c 203.32 370.04 205.59 372.31 205.59 375.11 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 204.39 369.52 Tm (Somerst \(n=182\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+262.74 350.94 m 262.74 353.22 260.89 355.07 258.61 355.07 c 256.33 355.07 254.49 353.22 254.49 350.94 c 254.49 348.66 256.33 346.81 258.61 346.81 c 260.89 346.81 262.74 348.66 262.74 350.94 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 215.30 354.81 Tm (Crawfor \(n=103\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+240.73 350.34 m 240.73 353.57 238.11 356.19 234.88 356.19 c 231.65 356.19 229.03 353.57 229.03 350.34 c 229.03 347.11 231.65 344.49 234.88 344.49 c 238.11 344.49 240.73 347.11 240.73 350.34 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 238.75 354.21 Tm (CollgCr \(n=267\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+148.96 348.41 m 148.96 349.55 148.04 350.47 146.90 350.47 c 145.76 350.47 144.84 349.55 144.84 348.41 c 144.84 347.27 145.76 346.34 146.90 346.34 c 148.04 346.34 148.96 347.27 148.96 348.41 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 111.48 342.82 Tm (Greens \(n=8\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+451.60 347.93 m 451.60 349.67 450.19 351.07 448.46 351.07 c 446.73 351.07 445.32 349.67 445.32 347.93 c 445.32 346.20 446.73 344.79 448.46 344.79 c 450.19 344.79 451.60 346.20 451.60 347.93 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 452.33 351.80 Tm (ClearCr \(n=44\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+142.64 342.09 m 142.64 343.60 141.41 344.84 139.89 344.84 c 138.37 344.84 137.14 343.60 137.14 342.09 c 137.14 340.57 138.37 339.33 139.89 339.33 c 141.41 339.33 142.64 340.57 142.64 342.09 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 99.21 345.96 Tm (Blmngtn \(n=28\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+259.04 333.83 m 259.04 336.51 256.87 338.69 254.19 338.69 c 251.50 338.69 249.33 336.51 249.33 333.83 c 249.33 331.15 251.50 328.97 254.19 328.97 c 256.87 328.97 259.04 331.15 259.04 333.83 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 258.06 328.24 Tm (Gilbert \(n=165\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+263.26 331.89 m 263.26 334.36 261.26 336.37 258.79 336.37 c 256.32 336.37 254.31 334.36 254.31 331.89 c 254.31 329.42 256.32 327.42 258.79 327.42 c 261.26 327.42 263.26 329.42 263.26 331.89 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 218.10 335.76 Tm (NWAmes \(n=131\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+241.54 330.90 m 241.54 333.35 239.56 335.33 237.11 335.33 c 234.67 335.33 232.69 333.35 232.69 330.90 c 232.69 328.46 234.67 326.48 237.11 326.48 c 239.56 326.48 241.54 328.46 241.54 330.90 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 240.98 334.77 Tm (SawyerW \(n=125\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+268.20 305.15 m 268.20 307.50 266.30 309.41 263.95 309.41 c 261.59 309.41 259.69 307.50 259.69 305.15 c 259.69 302.80 261.59 300.89 263.95 300.89 c 266.30 300.89 268.20 302.80 268.20 305.15 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 220.63 299.56 Tm (Mitchel \(n=114\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+133.27 295.69 m 133.27 297.14 132.09 298.31 130.65 298.31 c 129.20 298.31 128.02 297.14 128.02 295.69 c 128.02 294.24 129.20 293.06 130.65 293.06 c 132.09 293.06 133.27 294.24 133.27 295.69 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 134.52 299.56 Tm (NPkVill \(n=23\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+242.62 292.03 m 242.62 296.00 239.40 299.21 235.44 299.21 c 231.47 299.21 228.26 296.00 228.26 292.03 c 228.26 288.07 231.47 284.85 235.44 284.85 c 239.40 284.85 242.62 288.07 242.62 292.03 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 197.38 295.90 Tm (NAmes \(n=443\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+144.53 289.15 m 144.53 290.01 143.84 290.70 142.99 290.70 c 142.13 290.70 141.44 290.01 141.44 289.15 c 141.44 288.30 142.13 287.60 142.99 287.60 c 143.84 287.60 144.53 288.30 144.53 289.15 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 146.86 283.56 Tm (Landmrk \(n=1\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+203.79 288.38 m 203.79 290.16 202.35 291.60 200.56 291.60 c 198.78 291.60 197.34 290.16 197.34 288.38 c 197.34 286.60 198.78 285.15 200.56 285.15 c 202.35 285.15 203.79 286.60 203.79 288.38 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 165.14 292.25 Tm (SWISU \(n=48\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+244.98 287.22 m 244.98 289.83 242.87 291.95 240.25 291.95 c 237.64 291.95 235.52 289.83 235.52 287.22 c 235.52 284.60 237.64 282.49 240.25 282.49 c 242.87 282.49 244.98 284.60 244.98 287.22 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 244.12 291.09 Tm (Sawyer \(n=151\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+126.95 282.83 m 126.95 284.04 125.97 285.02 124.75 285.02 c 123.54 285.02 122.56 284.04 122.56 282.83 c 122.56 281.62 123.54 280.64 124.75 280.64 c 125.97 280.64 126.95 281.62 126.95 282.83 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 84.07 277.24 Tm (Blueste \(n=10\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+195.36 279.18 m 195.36 281.50 193.47 283.39 191.15 283.39 c 188.82 283.39 186.93 281.50 186.93 279.18 c 186.93 276.85 188.82 274.96 191.15 274.96 c 193.47 274.96 195.36 276.85 195.36 279.18 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 195.02 283.05 Tm (BrkSide \(n=108\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+245.20 277.50 m 245.20 280.37 242.87 282.70 240.00 282.70 c 237.12 282.70 234.79 280.37 234.79 277.50 c 234.79 274.63 237.12 272.30 240.00 272.30 c 242.87 272.30 245.20 274.63 245.20 277.50 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 196.68 281.37 Tm (Edwards \(n=194\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+215.18 272.51 m 215.18 275.60 212.68 278.10 209.59 278.10 c 206.51 278.10 204.00 275.60 204.00 272.51 c 204.00 269.42 206.51 266.92 209.59 266.92 c 212.68 266.92 215.18 269.42 215.18 272.51 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 213.46 266.92 Tm (OldTown \(n=239\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+221.98 259.53 m 221.98 261.73 220.19 263.52 217.98 263.52 c 215.77 263.52 213.98 261.73 213.98 259.53 c 213.98 257.32 215.77 255.53 217.98 255.53 c 220.19 255.53 221.98 257.32 221.98 259.53 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 179.93 263.39 Tm (IDOTRR \(n=93\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+120.33 259.01 m 120.33 260.58 119.06 261.85 117.49 261.85 c 115.92 261.85 114.65 260.58 114.65 259.01 c 114.65 257.44 115.92 256.17 117.49 256.17 c 119.06 256.17 120.33 257.44 120.33 259.01 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 121.36 262.88 Tm (BrDale \(n=30\)) Tj ET
+q
+0.090 0.518 0.604 rg
+1.000 1.000 1.000 RG
+0.65 w
+124.37 241.77 m 124.37 243.43 123.02 244.78 121.36 244.78 c 119.70 244.78 118.35 243.43 118.35 241.77 c 118.35 240.10 119.70 238.76 121.36 238.76 c 123.02 238.76 124.37 240.10 124.37 241.77 c
+B
+Q
+BT /F1 5.06 Tf 0.161 0.267 0.333 rg 1 0 0 1 80.67 236.18 Tm (MeadowV \(n=37\)) Tj ET
+BT /F2 5.78 Tf 0.161 0.267 0.333 rg 1 0 0 1 480.15 456.25 Tm (Sales count) Tj ET
+q
+0.090 0.518 0.604 rg
+489.27 441.20 m 489.27 442.67 488.07 443.87 486.60 443.87 c 485.13 443.87 483.93 442.67 483.93 441.20 c 483.93 439.73 485.13 438.53 486.60 438.53 c 488.07 438.53 489.27 439.73 489.27 441.20 c
+f
+Q
+BT /F1 5.30 Tf 0.322 0.404 0.475 rg 1 0 0 1 498.21 439.48 Tm (25 sales) Tj ET
+q
+0.090 0.518 0.604 rg
+490.68 417.55 m 490.68 419.81 488.86 421.63 486.60 421.63 c 484.34 421.63 482.51 419.81 482.51 417.55 c 482.51 415.29 484.34 413.47 486.60 413.47 c 488.86 413.47 490.68 415.29 490.68 417.55 c
+f
+Q
+BT /F1 5.30 Tf 0.322 0.404 0.475 rg 1 0 0 1 498.21 415.83 Tm (100 sales) Tj ET
+q
+0.090 0.518 0.604 rg
+492.32 393.90 m 492.32 397.06 489.76 399.62 486.60 399.62 c 483.44 399.62 480.88 397.06 480.88 393.90 c 480.88 390.74 483.44 388.18 486.60 388.18 c 489.76 388.18 492.32 390.74 492.32 393.90 c
+f
+Q
+BT /F1 5.30 Tf 0.322 0.404 0.475 rg 1 0 0 1 498.21 392.18 Tm (250 sales) Tj ET
+BT /F1 8.00 Tf 0.376 0.455 0.510 rg 1 0 0 1 52.00 56.00 Tm (Lot area is measured in square feet.) Tj ET
+q 0.847 0.882 0.910 RG 0.50 w 48.00 36.00 m 564.00 36.00 l S Q
+BT /F1 8.00 Tf 0.408 0.482 0.533 rg 1 0 0 1 48.00 19.00 Tm (Ames Housing neighborhood analysis) Tj ET
+BT /F1 8.00 Tf 0.408 0.482 0.533 rg 1 0 0 1 559.84 19.00 Tm (8) Tj ET
+endstream
+endobj
+22 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 21 0 R >>
+endobj
+23 0 obj
+<< /Length 20329 >>
+stream
+q
+1.000 1.000 1.000 rg
+0.00 0.00 612.00 792.00 re
+f
+Q
+BT /F2 8.00 Tf 0.078 0.490 0.573 rg 1 0 0 1 52.00 757.00 Tm (FINAL REPORT  /  AMES HOUSING) Tj ET
+BT /F2 20.00 Tf 0.090 0.196 0.302 rg 1 0 0 1 52.00 717.00 Tm (Visualization 5 - neighborhood rank heatmap) Tj ET
+BT /F1 9.40 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 691.00 Tm (Each cell shows a neighborhood's rank for that measure; rank 1 is highest. Green cells) Tj ET
+BT /F1 9.40 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 678.00 Tm (indicate higher ranks and warmer colors indicate lower ranks. Rows are ordered by median) Tj ET
+BT /F1 9.40 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 665.00 Tm (sale price.) Tj ET
+q
+1.000 1.000 1.000 rg
+48.00 571.43 46.07 46.07 re
+f
+Q
+BT /F2 12.38 Tf 0.090 0.196 0.302 rg 1 0 0 1 75.64 598.15 Tm (Neighborhood rank profile) Tj ET
+BT /F1 7.22 Tf 0.322 0.404 0.475 rg 1 0 0 1 75.64 586.17 Tm (Rank 1 is highest within each measure; cell text shows rank) Tj ET
+BT /F2 6.71 Tf 0.161 0.267 0.333 rg 1 0 0 1 162.07 567.28 Tm (Median price) Tj ET
+BT /F2 6.71 Tf 0.161 0.267 0.333 rg 1 0 0 1 267.45 567.28 Tm (Year built) Tj ET
+BT /F2 6.71 Tf 0.161 0.267 0.333 rg 1 0 0 1 372.83 567.28 Tm (Lot area) Tj ET
+BT /F2 6.71 Tf 0.161 0.267 0.333 rg 1 0 0 1 460.10 567.28 Tm (Overall quality) Tj ET
+q
+0.965 0.973 0.976 rg
+48.00 545.17 516.00 14.74 re
+f
+Q
+BT /F1 6.19 Tf 0.161 0.267 0.333 rg 1 0 0 1 83.55 550.24 Tm (StoneBr \(n=51\)) Tj ET
+q
+0.141 0.424 0.345 rg
+137.38 546.55 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 184.60 550.24 Tm (1) Tj ET
+q
+0.141 0.424 0.345 rg
+238.74 546.55 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 285.96 550.24 Tm (4) Tj ET
+q
+0.514 0.725 0.620 rg
+340.09 546.55 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 387.32 550.24 Tm (8) Tj ET
+q
+0.141 0.424 0.345 rg
+441.45 546.55 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 488.68 550.24 Tm (1) Tj ET
+q
+1.000 1.000 1.000 rg
+48.00 530.43 516.00 14.74 re
+f
+Q
+BT /F1 6.19 Tf 0.161 0.267 0.333 rg 1 0 0 1 80.33 535.49 Tm (NridgHt \(n=166\)) Tj ET
+q
+0.141 0.424 0.345 rg
+137.38 531.81 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 184.60 535.49 Tm (2) Tj ET
+q
+0.141 0.424 0.345 rg
+238.74 531.81 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 285.96 535.49 Tm (1) Tj ET
+q
+0.514 0.725 0.620 rg
+340.09 531.81 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 385.71 535.49 Tm (10) Tj ET
+q
+0.141 0.424 0.345 rg
+441.45 531.81 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 488.68 535.49 Tm (2) Tj ET
+q
+0.965 0.973 0.976 rg
+48.00 515.68 516.00 14.74 re
+f
+Q
+BT /F1 6.19 Tf 0.161 0.267 0.333 rg 1 0 0 1 83.55 520.75 Tm (NoRidge \(n=71\)) Tj ET
+q
+0.141 0.424 0.345 rg
+137.38 517.06 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 184.60 520.75 Tm (3) Tj ET
+q
+0.514 0.725 0.620 rg
+238.74 517.06 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 285.96 520.75 Tm (7) Tj ET
+q
+0.141 0.424 0.345 rg
+340.09 517.06 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 387.32 520.75 Tm (4) Tj ET
+q
+0.141 0.424 0.345 rg
+441.45 517.06 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 488.68 520.75 Tm (4) Tj ET
+q
+1.000 1.000 1.000 rg
+48.00 500.94 516.00 14.74 re
+f
+Q
+BT /F1 6.19 Tf 0.161 0.267 0.333 rg 1 0 0 1 86.77 506.01 Tm (GrnHill \(n=2\)) Tj ET
+q
+0.141 0.424 0.345 rg
+137.38 502.32 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 184.60 506.01 Tm (4) Tj ET
+q
+0.514 0.725 0.620 rg
+238.74 502.32 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 284.35 506.01 Tm (10) Tj ET
+q
+0.898 0.937 0.914 rg
+340.09 502.32 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 385.71 506.01 Tm (16) Tj ET
+q
+0.514 0.725 0.620 rg
+441.45 502.32 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 488.68 506.01 Tm (9) Tj ET
+q
+0.965 0.973 0.976 rg
+48.00 486.20 516.00 14.74 re
+f
+Q
+BT /F1 6.19 Tf 0.161 0.267 0.333 rg 1 0 0 1 83.55 491.26 Tm (Veenker \(n=24\)) Tj ET
+q
+0.141 0.424 0.345 rg
+137.38 487.58 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 184.60 491.26 Tm (5) Tj ET
+q
+0.898 0.937 0.914 rg
+238.74 487.58 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 284.35 491.26 Tm (14) Tj ET
+q
+0.141 0.424 0.345 rg
+340.09 487.58 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 387.32 491.26 Tm (3) Tj ET
+q
+0.141 0.424 0.345 rg
+441.45 487.58 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 488.68 491.26 Tm (6) Tj ET
+q
+1.000 1.000 1.000 rg
+48.00 471.45 516.00 14.74 re
+f
+Q
+BT /F1 6.19 Tf 0.161 0.267 0.333 rg 1 0 0 1 86.77 476.52 Tm (Timber \(n=72\)) Tj ET
+q
+0.141 0.424 0.345 rg
+137.38 472.84 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 184.60 476.52 Tm (6) Tj ET
+q
+0.514 0.725 0.620 rg
+238.74 472.84 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 285.96 476.52 Tm (8) Tj ET
+q
+0.141 0.424 0.345 rg
+340.09 472.84 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 387.32 476.52 Tm (2) Tj ET
+q
+0.514 0.725 0.620 rg
+441.45 472.84 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 488.68 476.52 Tm (7) Tj ET
+q
+0.965 0.973 0.976 rg
+48.00 456.71 516.00 14.74 re
+f
+Q
+BT /F1 6.19 Tf 0.161 0.267 0.333 rg 1 0 0 1 80.33 461.78 Tm (Somerst \(n=182\)) Tj ET
+q
+0.514 0.725 0.620 rg
+137.38 458.09 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 184.60 461.78 Tm (7) Tj ET
+q
+0.141 0.424 0.345 rg
+238.74 458.09 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 285.96 461.78 Tm (3) Tj ET
+q
+0.949 0.847 0.718 rg
+340.09 458.09 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 385.71 461.78 Tm (20) Tj ET
+q
+0.141 0.424 0.345 rg
+441.45 458.09 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 488.68 461.78 Tm (5) Tj ET
+q
+1.000 1.000 1.000 rg
+48.00 441.97 516.00 14.74 re
+f
+Q
+BT /F1 6.19 Tf 0.161 0.267 0.333 rg 1 0 0 1 80.33 447.04 Tm (Crawfor \(n=103\)) Tj ET
+q
+0.514 0.725 0.620 rg
+137.38 443.35 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 184.60 447.04 Tm (8) Tj ET
+q
+0.780 0.467 0.357 rg
+238.74 443.35 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 284.35 447.04 Tm (24) Tj ET
+q
+0.514 0.725 0.620 rg
+340.09 443.35 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 387.32 447.04 Tm (7) Tj ET
+q
+0.898 0.937 0.914 rg
+441.45 443.35 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 487.07 447.04 Tm (15) Tj ET
+q
+0.965 0.973 0.976 rg
+48.00 427.23 516.00 14.74 re
+f
+Q
+BT /F1 6.19 Tf 0.161 0.267 0.333 rg 1 0 0 1 80.33 432.29 Tm (CollgCr \(n=267\)) Tj ET
+q
+0.514 0.725 0.620 rg
+137.38 428.61 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 184.60 432.29 Tm (9) Tj ET
+q
+0.141 0.424 0.345 rg
+238.74 428.61 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 285.96 432.29 Tm (6) Tj ET
+q
+0.898 0.937 0.914 rg
+340.09 428.61 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 385.71 432.29 Tm (15) Tj ET
+q
+0.514 0.725 0.620 rg
+441.45 428.61 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 487.07 432.29 Tm (10) Tj ET
+q
+1.000 1.000 1.000 rg
+48.00 412.48 516.00 14.74 re
+f
+Q
+BT /F1 6.19 Tf 0.161 0.267 0.333 rg 1 0 0 1 89.99 417.55 Tm (Greens \(n=8\)) Tj ET
+q
+0.514 0.725 0.620 rg
+137.38 413.86 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 182.99 417.55 Tm (10) Tj ET
+q
+0.898 0.937 0.914 rg
+238.74 413.86 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 284.35 417.55 Tm (15) Tj ET
+q
+0.949 0.847 0.718 rg
+340.09 413.86 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 385.71 417.55 Tm (22) Tj ET
+q
+0.141 0.424 0.345 rg
+441.45 413.86 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 488.68 417.55 Tm (3) Tj ET
+q
+0.965 0.973 0.976 rg
+48.00 397.74 516.00 14.74 re
+f
+Q
+BT /F1 6.19 Tf 0.161 0.267 0.333 rg 1 0 0 1 83.55 402.81 Tm (ClearCr \(n=44\)) Tj ET
+q
+0.514 0.725 0.620 rg
+137.38 399.12 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 182.99 402.81 Tm (11) Tj ET
+q
+0.949 0.847 0.718 rg
+238.74 399.12 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 284.35 402.81 Tm (20) Tj ET
+q
+0.141 0.424 0.345 rg
+340.09 399.12 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 387.32 402.81 Tm (1) Tj ET
+q
+0.949 0.847 0.718 rg
+441.45 399.12 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 487.07 402.81 Tm (18) Tj ET
+q
+1.000 1.000 1.000 rg
+48.00 383.00 516.00 14.74 re
+f
+Q
+BT /F1 6.19 Tf 0.161 0.267 0.333 rg 1 0 0 1 83.55 388.06 Tm (Blmngtn \(n=28\)) Tj ET
+q
+0.514 0.725 0.620 rg
+137.38 384.38 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 182.99 388.06 Tm (12) Tj ET
+q
+0.141 0.424 0.345 rg
+238.74 384.38 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 285.96 388.06 Tm (2) Tj ET
+q
+0.780 0.467 0.357 rg
+340.09 384.38 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 385.71 388.06 Tm (24) Tj ET
+q
+0.514 0.725 0.620 rg
+441.45 384.38 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 488.68 388.06 Tm (8) Tj ET
+q
+0.965 0.973 0.976 rg
+48.00 368.25 516.00 14.74 re
+f
+Q
+BT /F1 6.19 Tf 0.161 0.267 0.333 rg 1 0 0 1 80.33 373.32 Tm (Gilbert \(n=165\)) Tj ET
+q
+0.898 0.937 0.914 rg
+137.38 369.64 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 182.99 373.32 Tm (13) Tj ET
+q
+0.141 0.424 0.345 rg
+238.74 369.64 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 285.96 373.32 Tm (5) Tj ET
+q
+0.514 0.725 0.620 rg
+340.09 369.64 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 387.32 373.32 Tm (9) Tj ET
+q
+0.514 0.725 0.620 rg
+441.45 369.64 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 487.07 373.32 Tm (12) Tj ET
+q
+1.000 1.000 1.000 rg
+48.00 353.51 516.00 14.74 re
+f
+Q
+BT /F1 6.19 Tf 0.161 0.267 0.333 rg 1 0 0 1 83.55 358.58 Tm (NWAmes \(n=131\)) Tj ET
+q
+0.898 0.937 0.914 rg
+137.38 354.89 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 182.99 358.58 Tm (14) Tj ET
+q
+0.898 0.937 0.914 rg
+238.74 354.89 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 284.35 358.58 Tm (17) Tj ET
+q
+0.141 0.424 0.345 rg
+340.09 354.89 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 387.32 358.58 Tm (6) Tj ET
+q
+0.898 0.937 0.914 rg
+441.45 354.89 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 487.07 358.58 Tm (13) Tj ET
+q
+0.965 0.973 0.976 rg
+48.00 338.77 516.00 14.74 re
+f
+Q
+BT /F1 6.19 Tf 0.161 0.267 0.333 rg 1 0 0 1 80.33 343.84 Tm (SawyerW \(n=125\)) Tj ET
+q
+0.898 0.937 0.914 rg
+137.38 340.15 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 182.99 343.84 Tm (15) Tj ET
+q
+0.514 0.725 0.620 rg
+238.74 340.15 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 284.35 343.84 Tm (11) Tj ET
+q
+0.898 0.937 0.914 rg
+340.09 340.15 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 385.71 343.84 Tm (13) Tj ET
+q
+0.898 0.937 0.914 rg
+441.45 340.15 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 487.07 343.84 Tm (14) Tj ET
+q
+1.000 1.000 1.000 rg
+48.00 324.03 516.00 14.74 re
+f
+Q
+BT /F1 6.19 Tf 0.161 0.267 0.333 rg 1 0 0 1 80.33 329.09 Tm (Mitchel \(n=114\)) Tj ET
+q
+0.898 0.937 0.914 rg
+137.38 325.41 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 182.99 329.09 Tm (16) Tj ET
+q
+0.898 0.937 0.914 rg
+238.74 325.41 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 284.35 329.09 Tm (13) Tj ET
+q
+0.141 0.424 0.345 rg
+340.09 325.41 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 387.32 329.09 Tm (5) Tj ET
+q
+0.949 0.847 0.718 rg
+441.45 325.41 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 487.07 329.09 Tm (20) Tj ET
+q
+0.965 0.973 0.976 rg
+48.00 309.28 516.00 14.74 re
+f
+Q
+BT /F1 6.19 Tf 0.161 0.267 0.333 rg 1 0 0 1 83.55 314.35 Tm (NPkVill \(n=23\)) Tj ET
+q
+0.898 0.937 0.914 rg
+137.38 310.66 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 182.99 314.35 Tm (17) Tj ET
+q
+0.898 0.937 0.914 rg
+238.74 310.66 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 284.35 314.35 Tm (16) Tj ET
+q
+0.780 0.467 0.357 rg
+340.09 310.66 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 385.71 314.35 Tm (25) Tj ET
+q
+0.898 0.937 0.914 rg
+441.45 310.66 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 487.07 314.35 Tm (16) Tj ET
+q
+1.000 1.000 1.000 rg
+48.00 294.54 516.00 14.74 re
+f
+Q
+BT /F1 6.19 Tf 0.161 0.267 0.333 rg 1 0 0 1 86.77 299.61 Tm (NAmes \(n=443\)) Tj ET
+q
+0.949 0.847 0.718 rg
+137.38 295.92 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 182.99 299.61 Tm (18) Tj ET
+q
+0.949 0.847 0.718 rg
+238.74 295.92 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 284.35 299.61 Tm (22) Tj ET
+q
+0.898 0.937 0.914 rg
+340.09 295.92 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 385.71 299.61 Tm (14) Tj ET
+q
+0.949 0.847 0.718 rg
+441.45 295.92 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 487.07 299.61 Tm (22) Tj ET
+q
+0.965 0.973 0.976 rg
+48.00 279.80 516.00 14.74 re
+f
+Q
+BT /F1 6.19 Tf 0.161 0.267 0.333 rg 1 0 0 1 86.77 284.86 Tm (Landmrk \(n=1\)) Tj ET
+q
+0.949 0.847 0.718 rg
+137.38 281.18 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 182.99 284.86 Tm (19) Tj ET
+q
+0.514 0.725 0.620 rg
+238.74 281.18 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 285.96 284.86 Tm (9) Tj ET
+q
+0.949 0.847 0.718 rg
+340.09 281.18 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 385.71 284.86 Tm (23) Tj ET
+q
+0.898 0.937 0.914 rg
+441.45 281.18 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 487.07 284.86 Tm (17) Tj ET
+q
+1.000 1.000 1.000 rg
+48.00 265.05 516.00 14.74 re
+f
+Q
+BT /F1 6.19 Tf 0.161 0.267 0.333 rg 1 0 0 1 89.99 270.12 Tm (SWISU \(n=48\)) Tj ET
+q
+0.949 0.847 0.718 rg
+137.38 266.44 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 182.99 270.12 Tm (20) Tj ET
+q
+0.780 0.467 0.357 rg
+238.74 266.44 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 284.35 270.12 Tm (26) Tj ET
+q
+0.949 0.847 0.718 rg
+340.09 266.44 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 385.71 270.12 Tm (19) Tj ET
+q
+0.949 0.847 0.718 rg
+441.45 266.44 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 487.07 270.12 Tm (21) Tj ET
+q
+0.965 0.973 0.976 rg
+48.00 250.31 516.00 14.74 re
+f
+Q
+BT /F1 6.19 Tf 0.161 0.267 0.333 rg 1 0 0 1 83.55 255.38 Tm (Sawyer \(n=151\)) Tj ET
+q
+0.949 0.847 0.718 rg
+137.38 251.69 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 182.99 255.38 Tm (21) Tj ET
+q
+0.949 0.847 0.718 rg
+238.74 251.69 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 284.35 255.38 Tm (21) Tj ET
+q
+0.514 0.725 0.620 rg
+340.09 251.69 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 385.71 255.38 Tm (11) Tj ET
+q
+0.780 0.467 0.357 rg
+441.45 251.69 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 487.07 255.38 Tm (25) Tj ET
+q
+1.000 1.000 1.000 rg
+48.00 235.57 516.00 14.74 re
+f
+Q
+BT /F1 6.19 Tf 0.161 0.267 0.333 rg 1 0 0 1 83.55 240.64 Tm (Blueste \(n=10\)) Tj ET
+q
+0.949 0.847 0.718 rg
+137.38 236.95 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 182.99 240.64 Tm (22) Tj ET
+q
+0.514 0.725 0.620 rg
+238.74 236.95 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 284.35 240.64 Tm (12) Tj ET
+q
+0.780 0.467 0.357 rg
+340.09 236.95 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 385.71 240.64 Tm (26) Tj ET
+q
+0.514 0.725 0.620 rg
+441.45 236.95 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 487.07 240.64 Tm (11) Tj ET
+q
+0.965 0.973 0.976 rg
+48.00 220.83 516.00 14.74 re
+f
+Q
+BT /F1 6.19 Tf 0.161 0.267 0.333 rg 1 0 0 1 80.33 225.89 Tm (BrkSide \(n=108\)) Tj ET
+q
+0.949 0.847 0.718 rg
+137.38 222.21 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 182.99 225.89 Tm (23) Tj ET
+q
+0.780 0.467 0.357 rg
+238.74 222.21 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 284.35 225.89 Tm (25) Tj ET
+q
+0.949 0.847 0.718 rg
+340.09 222.21 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 385.71 225.89 Tm (21) Tj ET
+q
+0.780 0.467 0.357 rg
+441.45 222.21 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 487.07 225.89 Tm (24) Tj ET
+q
+1.000 1.000 1.000 rg
+48.00 206.08 516.00 14.74 re
+f
+Q
+BT /F1 6.19 Tf 0.161 0.267 0.333 rg 1 0 0 1 80.33 211.15 Tm (Edwards \(n=194\)) Tj ET
+q
+0.780 0.467 0.357 rg
+137.38 207.46 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 182.99 211.15 Tm (24) Tj ET
+q
+0.949 0.847 0.718 rg
+238.74 207.46 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 284.35 211.15 Tm (23) Tj ET
+q
+0.514 0.725 0.620 rg
+340.09 207.46 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 385.71 211.15 Tm (12) Tj ET
+q
+0.780 0.467 0.357 rg
+441.45 207.46 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 487.07 211.15 Tm (26) Tj ET
+q
+0.965 0.973 0.976 rg
+48.00 191.34 516.00 14.74 re
+f
+Q
+BT /F1 6.19 Tf 0.161 0.267 0.333 rg 1 0 0 1 80.33 196.41 Tm (OldTown \(n=239\)) Tj ET
+q
+0.780 0.467 0.357 rg
+137.38 192.72 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 182.99 196.41 Tm (25) Tj ET
+q
+0.780 0.467 0.357 rg
+238.74 192.72 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 284.35 196.41 Tm (28) Tj ET
+q
+0.949 0.847 0.718 rg
+340.09 192.72 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 385.71 196.41 Tm (18) Tj ET
+q
+0.949 0.847 0.718 rg
+441.45 192.72 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 487.07 196.41 Tm (23) Tj ET
+q
+1.000 1.000 1.000 rg
+48.00 176.60 516.00 14.74 re
+f
+Q
+BT /F1 6.19 Tf 0.161 0.267 0.333 rg 1 0 0 1 86.77 181.66 Tm (IDOTRR \(n=93\)) Tj ET
+q
+0.780 0.467 0.357 rg
+137.38 177.98 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 182.99 181.66 Tm (26) Tj ET
+q
+0.780 0.467 0.357 rg
+238.74 177.98 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 284.35 181.66 Tm (27) Tj ET
+q
+0.898 0.937 0.914 rg
+340.09 177.98 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 385.71 181.66 Tm (17) Tj ET
+q
+0.780 0.467 0.357 rg
+441.45 177.98 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 487.07 181.66 Tm (27) Tj ET
+q
+0.965 0.973 0.976 rg
+48.00 161.85 516.00 14.74 re
+f
+Q
+BT /F1 6.19 Tf 0.161 0.267 0.333 rg 1 0 0 1 86.77 166.92 Tm (BrDale \(n=30\)) Tj ET
+q
+0.780 0.467 0.357 rg
+137.38 163.24 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 182.99 166.92 Tm (27) Tj ET
+q
+0.949 0.847 0.718 rg
+238.74 163.24 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 284.35 166.92 Tm (19) Tj ET
+q
+0.780 0.467 0.357 rg
+340.09 163.24 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 385.71 166.92 Tm (28) Tj ET
+q
+0.949 0.847 0.718 rg
+441.45 163.24 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 487.07 166.92 Tm (19) Tj ET
+q
+1.000 1.000 1.000 rg
+48.00 147.11 516.00 14.74 re
+f
+Q
+BT /F1 6.19 Tf 0.161 0.267 0.333 rg 1 0 0 1 83.55 152.18 Tm (MeadowV \(n=37\)) Tj ET
+q
+0.780 0.467 0.357 rg
+137.38 148.49 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 182.99 152.18 Tm (28) Tj ET
+q
+0.949 0.847 0.718 rg
+238.74 148.49 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 284.35 152.18 Tm (18) Tj ET
+q
+0.780 0.467 0.357 rg
+340.09 148.49 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 385.71 152.18 Tm (27) Tj ET
+q
+0.780 0.467 0.357 rg
+441.45 148.49 97.67 11.98 re
+f
+Q
+BT /F1 6.19 Tf 0.090 0.196 0.302 rg 1 0 0 1 487.07 152.18 Tm (28) Tj ET
+BT /F1 5.68 Tf 0.322 0.404 0.475 rg 1 0 0 1 135.54 136.05 Tm (Higher rank) Tj ET
+q
+0.141 0.424 0.345 rg
+179.30 134.21 17.51 7.37 re
+f
+Q
+q
+0.514 0.725 0.620 rg
+200.04 134.21 17.51 7.37 re
+f
+Q
+q
+0.898 0.937 0.914 rg
+220.77 134.21 17.51 7.37 re
+f
+Q
+q
+0.949 0.847 0.718 rg
+241.50 134.21 17.51 7.37 re
+f
+Q
+q
+0.780 0.467 0.357 rg
+262.23 134.21 17.51 7.37 re
+f
+Q
+BT /F1 5.68 Tf 0.322 0.404 0.475 rg 1 0 0 1 292.18 136.05 Tm (Lower rank) Tj ET
+BT /F1 8.00 Tf 0.376 0.455 0.510 rg 1 0 0 1 52.00 56.00 Tm (Rank colors support comparison; the printed rank in each cell is the precise value.) Tj ET
+q 0.847 0.882 0.910 RG 0.50 w 48.00 36.00 m 564.00 36.00 l S Q
+BT /F1 8.00 Tf 0.408 0.482 0.533 rg 1 0 0 1 48.00 19.00 Tm (Ames Housing neighborhood analysis) Tj ET
+BT /F1 8.00 Tf 0.408 0.482 0.533 rg 1 0 0 1 559.84 19.00 Tm (9) Tj ET
+endstream
+endobj
+24 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 23 0 R >>
+endobj
+25 0 obj
+<< /Length 4054 >>
+stream
+q
+1.000 1.000 1.000 rg
+0.00 0.00 612.00 792.00 re
+f
+Q
+BT /F2 18.00 Tf 0.090 0.196 0.302 rg 1 0 0 1 52.00 734.00 Tm (Narrative summary) Tj ET
+q 0.612 0.698 0.757 RG 0.80 w 52.00 726.00 m 560.00 726.00 l S Q
+BT /F2 8.00 Tf 0.078 0.490 0.573 rg 1 0 0 1 512.00 756.00 Tm (CONCLUSION) Tj ET
+BT /F1 10.20 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 692.00 Tm (Typical sale prices differed widely across Ames neighborhoods. The highest median sale) Tj ET
+BT /F1 10.20 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 677.00 Tm (price was in StoneBr at $319,000, based on 51 sales. NridgHt was close behind at $317,750) Tj ET
+BT /F1 10.20 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 662.00 Tm (across 166 sales, followed by NoRidge at $302,000 across 71 sales. At the other end,) Tj ET
+BT /F1 10.20 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 647.00 Tm (MeadowV had the lowest median at $88,250 across 37 sales.) Tj ET
+BT /F1 10.20 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 620.00 Tm (A median is the midpoint sale price: half the sales in that neighborhood were higher and) Tj ET
+BT /F1 10.20 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 605.00 Tm (half were lower. It helps describe a typical sale without being pulled as strongly by a few) Tj ET
+BT /F1 10.20 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 590.00 Tm (unusually expensive homes.) Tj ET
+BT /F1 10.20 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 563.00 Tm (Across neighborhoods, sale price tended to rise along with average overall quality, average) Tj ET
+BT /F1 10.20 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 548.00 Tm (year built, and average lot area. To measure these patterns, I used Spearman rank) Tj ET
+BT /F1 10.20 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 533.00 Tm (correlation. It compares how neighborhoods rank on two measures: a positive value means) Tj ET
+BT /F1 10.20 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 518.00 Tm (neighborhoods ranked higher on one measure also tended to rank higher on the other. The) Tj ET
+BT /F1 10.20 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 503.00 Tm (relationship was strongest for overall quality \(rho = 0.877\), followed by year built \(rho =) Tj ET
+BT /F1 10.20 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 488.00 Tm (0.681\) and lot area \(rho = 0.570\). In plain terms, neighborhood median prices aligned most) Tj ET
+BT /F1 10.20 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 473.00 Tm (closely with average quality, and somewhat less consistently with newer homes and larger) Tj ET
+BT /F1 10.20 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 458.00 Tm (lots.) Tj ET
+BT /F1 10.20 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 431.00 Tm (These are neighborhood-level patterns in this dataset; they do not show that home age, lot) Tj ET
+BT /F1 10.20 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 416.00 Tm (size, or quality caused sale prices to be higher. Neighborhoods with very few sales, such) Tj ET
+BT /F1 10.20 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 401.00 Tm (as Landmrk \(1 sale\) and GrnHill \(2 sales\), should also be interpreted cautiously because) Tj ET
+BT /F1 10.20 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 386.00 Tm (their median prices and averages are based on limited observations.) Tj ET
+BT /F1 10.20 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 359.00 Tm (Overall, the answer is yes: higher-priced neighborhoods generally had newer homes, larger) Tj ET
+BT /F1 10.20 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 344.00 Tm (lots, and higher overall quality. The connection was clearest for quality; the) Tj ET
+BT /F1 10.20 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 329.00 Tm (relationships with home age and lot area were more moderate and had exceptions. These) Tj ET
+BT /F1 10.20 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 314.00 Tm (patterns describe how neighborhoods compared in this dataset, rather than predicting the) Tj ET
+BT /F1 10.20 Tf 0.149 0.243 0.306 rg 1 0 0 1 52.00 299.00 Tm (price of an individual home.) Tj ET
+q 0.847 0.882 0.910 RG 0.50 w 48.00 36.00 m 564.00 36.00 l S Q
+BT /F1 8.00 Tf 0.408 0.482 0.533 rg 1 0 0 1 48.00 19.00 Tm (Ames Housing neighborhood analysis) Tj ET
+BT /F1 8.00 Tf 0.408 0.482 0.533 rg 1 0 0 1 555.68 19.00 Tm (10) Tj ET
+endstream
+endobj
+26 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 25 0 R >>
+endobj
+xref
+0 27
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000185 00000 n 
+0000000282 00000 n 
+0000000384 00000 n 
+0000000479 00000 n 
+0000000579 00000 n 
+0000003602 00000 n 
+0000003758 00000 n 
+0000008220 00000 n 
+0000008377 00000 n 
+0000014571 00000 n 
+0000014729 00000 n 
+0000032552 00000 n 
+0000032710 00000 n 
+0000045535 00000 n 
+0000045693 00000 n 
+0000059921 00000 n 
+0000060079 00000 n 
+0000074120 00000 n 
+0000074278 00000 n 
+0000088490 00000 n 
+0000088648 00000 n 
+0000109031 00000 n 
+0000109189 00000 n 
+0000113296 00000 n 
+trailer
+<< /Size 27 /Root 1 0 R >>
+startxref
+113454
+%%EOF
