@@ -7,8 +7,9 @@ from pathlib import Path
 from statistics import mean, median
 
 
-DATA_PATH = Path(__file__).resolve().parent / "Amos_Housing_data_cleaned.csv"
-IMAGE_PATH = Path(__file__).resolve().parent / "Amos_Housing_summary_table.svg"
+ANALYSIS_DIR = Path(__file__).resolve().parent.parent
+DATA_PATH = ANALYSIS_DIR / "data" / "Amos_Housing_data_cleaned.csv"
+IMAGE_PATH = ANALYSIS_DIR / "artifacts" / "Amos_Housing_summary_table.svg"
 
 
 def load_summary():
@@ -98,6 +99,7 @@ def create_svg(summary):
 
 def main():
     summary = load_summary()
+    IMAGE_PATH.parent.mkdir(parents=True, exist_ok=True)
     create_svg(summary)
     print(" | ".join([
         "Neighborhood", "Sales", "Median sale price", "Avg. year built",
