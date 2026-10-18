@@ -1,0 +1,296 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="1120" viewBox="0 0 1120 1120">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="60" y="42" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#17324d">Neighborhood rank profile</text>
+<text x="60" y="68" font-family="Arial, sans-serif" font-size="14" fill="#526779">Rank 1 is highest within each measure; cell text shows rank</text>
+<text x="300.0" y="109" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#294455">Median price</text>
+<text x="520.0" y="109" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#294455">Year built</text>
+<text x="740.0" y="109" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#294455">Lot area</text>
+<text x="960.0" y="109" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#294455">Overall quality</text>
+<rect x="0" y="125" width="1120" height="32" fill="#f6f8f9"/>
+<text x="175" y="146" text-anchor="end" font-family="Arial" font-size="12" fill="#294455">StoneBr (n=51)</text>
+<rect x="194" y="128" width="212" height="26" rx="4" fill="#246c58"/>
+<text x="300.0" y="146" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">1</text>
+<rect x="414" y="128" width="212" height="26" rx="4" fill="#246c58"/>
+<text x="520.0" y="146" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">4</text>
+<rect x="634" y="128" width="212" height="26" rx="4" fill="#83b99e"/>
+<text x="740.0" y="146" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">8</text>
+<rect x="854" y="128" width="212" height="26" rx="4" fill="#246c58"/>
+<text x="960.0" y="146" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">1</text>
+<rect x="0" y="157" width="1120" height="32" fill="#ffffff"/>
+<text x="175" y="178" text-anchor="end" font-family="Arial" font-size="12" fill="#294455">NridgHt (n=166)</text>
+<rect x="194" y="160" width="212" height="26" rx="4" fill="#246c58"/>
+<text x="300.0" y="178" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">2</text>
+<rect x="414" y="160" width="212" height="26" rx="4" fill="#246c58"/>
+<text x="520.0" y="178" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">1</text>
+<rect x="634" y="160" width="212" height="26" rx="4" fill="#83b99e"/>
+<text x="740.0" y="178" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">10</text>
+<rect x="854" y="160" width="212" height="26" rx="4" fill="#246c58"/>
+<text x="960.0" y="178" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">2</text>
+<rect x="0" y="189" width="1120" height="32" fill="#f6f8f9"/>
+<text x="175" y="210" text-anchor="end" font-family="Arial" font-size="12" fill="#294455">NoRidge (n=71)</text>
+<rect x="194" y="192" width="212" height="26" rx="4" fill="#246c58"/>
+<text x="300.0" y="210" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">3</text>
+<rect x="414" y="192" width="212" height="26" rx="4" fill="#83b99e"/>
+<text x="520.0" y="210" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">7</text>
+<rect x="634" y="192" width="212" height="26" rx="4" fill="#246c58"/>
+<text x="740.0" y="210" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">4</text>
+<rect x="854" y="192" width="212" height="26" rx="4" fill="#246c58"/>
+<text x="960.0" y="210" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">4</text>
+<rect x="0" y="221" width="1120" height="32" fill="#ffffff"/>
+<text x="175" y="242" text-anchor="end" font-family="Arial" font-size="12" fill="#294455">GrnHill (n=2)</text>
+<rect x="194" y="224" width="212" height="26" rx="4" fill="#246c58"/>
+<text x="300.0" y="242" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">4</text>
+<rect x="414" y="224" width="212" height="26" rx="4" fill="#83b99e"/>
+<text x="520.0" y="242" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">10</text>
+<rect x="634" y="224" width="212" height="26" rx="4" fill="#e5efe9"/>
+<text x="740.0" y="242" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">16</text>
+<rect x="854" y="224" width="212" height="26" rx="4" fill="#83b99e"/>
+<text x="960.0" y="242" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">9</text>
+<rect x="0" y="253" width="1120" height="32" fill="#f6f8f9"/>
+<text x="175" y="274" text-anchor="end" font-family="Arial" font-size="12" fill="#294455">Veenker (n=24)</text>
+<rect x="194" y="256" width="212" height="26" rx="4" fill="#246c58"/>
+<text x="300.0" y="274" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">5</text>
+<rect x="414" y="256" width="212" height="26" rx="4" fill="#e5efe9"/>
+<text x="520.0" y="274" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">14</text>
+<rect x="634" y="256" width="212" height="26" rx="4" fill="#246c58"/>
+<text x="740.0" y="274" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">3</text>
+<rect x="854" y="256" width="212" height="26" rx="4" fill="#246c58"/>
+<text x="960.0" y="274" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">6</text>
+<rect x="0" y="285" width="1120" height="32" fill="#ffffff"/>
+<text x="175" y="306" text-anchor="end" font-family="Arial" font-size="12" fill="#294455">Timber (n=72)</text>
+<rect x="194" y="288" width="212" height="26" rx="4" fill="#246c58"/>
+<text x="300.0" y="306" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">6</text>
+<rect x="414" y="288" width="212" height="26" rx="4" fill="#83b99e"/>
+<text x="520.0" y="306" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">8</text>
+<rect x="634" y="288" width="212" height="26" rx="4" fill="#246c58"/>
+<text x="740.0" y="306" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">2</text>
+<rect x="854" y="288" width="212" height="26" rx="4" fill="#83b99e"/>
+<text x="960.0" y="306" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">7</text>
+<rect x="0" y="317" width="1120" height="32" fill="#f6f8f9"/>
+<text x="175" y="338" text-anchor="end" font-family="Arial" font-size="12" fill="#294455">Somerst (n=182)</text>
+<rect x="194" y="320" width="212" height="26" rx="4" fill="#83b99e"/>
+<text x="300.0" y="338" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">7</text>
+<rect x="414" y="320" width="212" height="26" rx="4" fill="#246c58"/>
+<text x="520.0" y="338" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">3</text>
+<rect x="634" y="320" width="212" height="26" rx="4" fill="#f2d8b7"/>
+<text x="740.0" y="338" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">20</text>
+<rect x="854" y="320" width="212" height="26" rx="4" fill="#246c58"/>
+<text x="960.0" y="338" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">5</text>
+<rect x="0" y="349" width="1120" height="32" fill="#ffffff"/>
+<text x="175" y="370" text-anchor="end" font-family="Arial" font-size="12" fill="#294455">Crawfor (n=103)</text>
+<rect x="194" y="352" width="212" height="26" rx="4" fill="#83b99e"/>
+<text x="300.0" y="370" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">8</text>
+<rect x="414" y="352" width="212" height="26" rx="4" fill="#c7775b"/>
+<text x="520.0" y="370" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">24</text>
+<rect x="634" y="352" width="212" height="26" rx="4" fill="#83b99e"/>
+<text x="740.0" y="370" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">7</text>
+<rect x="854" y="352" width="212" height="26" rx="4" fill="#e5efe9"/>
+<text x="960.0" y="370" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">15</text>
+<rect x="0" y="381" width="1120" height="32" fill="#f6f8f9"/>
+<text x="175" y="402" text-anchor="end" font-family="Arial" font-size="12" fill="#294455">CollgCr (n=267)</text>
+<rect x="194" y="384" width="212" height="26" rx="4" fill="#83b99e"/>
+<text x="300.0" y="402" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">9</text>
+<rect x="414" y="384" width="212" height="26" rx="4" fill="#246c58"/>
+<text x="520.0" y="402" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">6</text>
+<rect x="634" y="384" width="212" height="26" rx="4" fill="#e5efe9"/>
+<text x="740.0" y="402" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">15</text>
+<rect x="854" y="384" width="212" height="26" rx="4" fill="#83b99e"/>
+<text x="960.0" y="402" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">10</text>
+<rect x="0" y="413" width="1120" height="32" fill="#ffffff"/>
+<text x="175" y="434" text-anchor="end" font-family="Arial" font-size="12" fill="#294455">Greens (n=8)</text>
+<rect x="194" y="416" width="212" height="26" rx="4" fill="#83b99e"/>
+<text x="300.0" y="434" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">10</text>
+<rect x="414" y="416" width="212" height="26" rx="4" fill="#e5efe9"/>
+<text x="520.0" y="434" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">15</text>
+<rect x="634" y="416" width="212" height="26" rx="4" fill="#f2d8b7"/>
+<text x="740.0" y="434" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">22</text>
+<rect x="854" y="416" width="212" height="26" rx="4" fill="#246c58"/>
+<text x="960.0" y="434" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">3</text>
+<rect x="0" y="445" width="1120" height="32" fill="#f6f8f9"/>
+<text x="175" y="466" text-anchor="end" font-family="Arial" font-size="12" fill="#294455">ClearCr (n=44)</text>
+<rect x="194" y="448" width="212" height="26" rx="4" fill="#83b99e"/>
+<text x="300.0" y="466" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">11</text>
+<rect x="414" y="448" width="212" height="26" rx="4" fill="#f2d8b7"/>
+<text x="520.0" y="466" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">20</text>
+<rect x="634" y="448" width="212" height="26" rx="4" fill="#246c58"/>
+<text x="740.0" y="466" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">1</text>
+<rect x="854" y="448" width="212" height="26" rx="4" fill="#f2d8b7"/>
+<text x="960.0" y="466" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">18</text>
+<rect x="0" y="477" width="1120" height="32" fill="#ffffff"/>
+<text x="175" y="498" text-anchor="end" font-family="Arial" font-size="12" fill="#294455">Blmngtn (n=28)</text>
+<rect x="194" y="480" width="212" height="26" rx="4" fill="#83b99e"/>
+<text x="300.0" y="498" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">12</text>
+<rect x="414" y="480" width="212" height="26" rx="4" fill="#246c58"/>
+<text x="520.0" y="498" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">2</text>
+<rect x="634" y="480" width="212" height="26" rx="4" fill="#c7775b"/>
+<text x="740.0" y="498" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">24</text>
+<rect x="854" y="480" width="212" height="26" rx="4" fill="#83b99e"/>
+<text x="960.0" y="498" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">8</text>
+<rect x="0" y="509" width="1120" height="32" fill="#f6f8f9"/>
+<text x="175" y="530" text-anchor="end" font-family="Arial" font-size="12" fill="#294455">Gilbert (n=165)</text>
+<rect x="194" y="512" width="212" height="26" rx="4" fill="#e5efe9"/>
+<text x="300.0" y="530" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">13</text>
+<rect x="414" y="512" width="212" height="26" rx="4" fill="#246c58"/>
+<text x="520.0" y="530" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">5</text>
+<rect x="634" y="512" width="212" height="26" rx="4" fill="#83b99e"/>
+<text x="740.0" y="530" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">9</text>
+<rect x="854" y="512" width="212" height="26" rx="4" fill="#83b99e"/>
+<text x="960.0" y="530" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">12</text>
+<rect x="0" y="541" width="1120" height="32" fill="#ffffff"/>
+<text x="175" y="562" text-anchor="end" font-family="Arial" font-size="12" fill="#294455">NWAmes (n=131)</text>
+<rect x="194" y="544" width="212" height="26" rx="4" fill="#e5efe9"/>
+<text x="300.0" y="562" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">14</text>
+<rect x="414" y="544" width="212" height="26" rx="4" fill="#e5efe9"/>
+<text x="520.0" y="562" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">17</text>
+<rect x="634" y="544" width="212" height="26" rx="4" fill="#246c58"/>
+<text x="740.0" y="562" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">6</text>
+<rect x="854" y="544" width="212" height="26" rx="4" fill="#e5efe9"/>
+<text x="960.0" y="562" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">13</text>
+<rect x="0" y="573" width="1120" height="32" fill="#f6f8f9"/>
+<text x="175" y="594" text-anchor="end" font-family="Arial" font-size="12" fill="#294455">SawyerW (n=125)</text>
+<rect x="194" y="576" width="212" height="26" rx="4" fill="#e5efe9"/>
+<text x="300.0" y="594" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">15</text>
+<rect x="414" y="576" width="212" height="26" rx="4" fill="#83b99e"/>
+<text x="520.0" y="594" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">11</text>
+<rect x="634" y="576" width="212" height="26" rx="4" fill="#e5efe9"/>
+<text x="740.0" y="594" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">13</text>
+<rect x="854" y="576" width="212" height="26" rx="4" fill="#e5efe9"/>
+<text x="960.0" y="594" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">14</text>
+<rect x="0" y="605" width="1120" height="32" fill="#ffffff"/>
+<text x="175" y="626" text-anchor="end" font-family="Arial" font-size="12" fill="#294455">Mitchel (n=114)</text>
+<rect x="194" y="608" width="212" height="26" rx="4" fill="#e5efe9"/>
+<text x="300.0" y="626" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">16</text>
+<rect x="414" y="608" width="212" height="26" rx="4" fill="#e5efe9"/>
+<text x="520.0" y="626" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">13</text>
+<rect x="634" y="608" width="212" height="26" rx="4" fill="#246c58"/>
+<text x="740.0" y="626" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">5</text>
+<rect x="854" y="608" width="212" height="26" rx="4" fill="#f2d8b7"/>
+<text x="960.0" y="626" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">20</text>
+<rect x="0" y="637" width="1120" height="32" fill="#f6f8f9"/>
+<text x="175" y="658" text-anchor="end" font-family="Arial" font-size="12" fill="#294455">NPkVill (n=23)</text>
+<rect x="194" y="640" width="212" height="26" rx="4" fill="#e5efe9"/>
+<text x="300.0" y="658" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">17</text>
+<rect x="414" y="640" width="212" height="26" rx="4" fill="#e5efe9"/>
+<text x="520.0" y="658" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">16</text>
+<rect x="634" y="640" width="212" height="26" rx="4" fill="#c7775b"/>
+<text x="740.0" y="658" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">25</text>
+<rect x="854" y="640" width="212" height="26" rx="4" fill="#e5efe9"/>
+<text x="960.0" y="658" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">16</text>
+<rect x="0" y="669" width="1120" height="32" fill="#ffffff"/>
+<text x="175" y="690" text-anchor="end" font-family="Arial" font-size="12" fill="#294455">NAmes (n=443)</text>
+<rect x="194" y="672" width="212" height="26" rx="4" fill="#f2d8b7"/>
+<text x="300.0" y="690" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">18</text>
+<rect x="414" y="672" width="212" height="26" rx="4" fill="#f2d8b7"/>
+<text x="520.0" y="690" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">22</text>
+<rect x="634" y="672" width="212" height="26" rx="4" fill="#e5efe9"/>
+<text x="740.0" y="690" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">14</text>
+<rect x="854" y="672" width="212" height="26" rx="4" fill="#f2d8b7"/>
+<text x="960.0" y="690" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">22</text>
+<rect x="0" y="701" width="1120" height="32" fill="#f6f8f9"/>
+<text x="175" y="722" text-anchor="end" font-family="Arial" font-size="12" fill="#294455">Landmrk (n=1)</text>
+<rect x="194" y="704" width="212" height="26" rx="4" fill="#f2d8b7"/>
+<text x="300.0" y="722" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">19</text>
+<rect x="414" y="704" width="212" height="26" rx="4" fill="#83b99e"/>
+<text x="520.0" y="722" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">9</text>
+<rect x="634" y="704" width="212" height="26" rx="4" fill="#f2d8b7"/>
+<text x="740.0" y="722" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">23</text>
+<rect x="854" y="704" width="212" height="26" rx="4" fill="#e5efe9"/>
+<text x="960.0" y="722" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">17</text>
+<rect x="0" y="733" width="1120" height="32" fill="#ffffff"/>
+<text x="175" y="754" text-anchor="end" font-family="Arial" font-size="12" fill="#294455">SWISU (n=48)</text>
+<rect x="194" y="736" width="212" height="26" rx="4" fill="#f2d8b7"/>
+<text x="300.0" y="754" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">20</text>
+<rect x="414" y="736" width="212" height="26" rx="4" fill="#c7775b"/>
+<text x="520.0" y="754" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">26</text>
+<rect x="634" y="736" width="212" height="26" rx="4" fill="#f2d8b7"/>
+<text x="740.0" y="754" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">19</text>
+<rect x="854" y="736" width="212" height="26" rx="4" fill="#f2d8b7"/>
+<text x="960.0" y="754" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">21</text>
+<rect x="0" y="765" width="1120" height="32" fill="#f6f8f9"/>
+<text x="175" y="786" text-anchor="end" font-family="Arial" font-size="12" fill="#294455">Sawyer (n=151)</text>
+<rect x="194" y="768" width="212" height="26" rx="4" fill="#f2d8b7"/>
+<text x="300.0" y="786" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">21</text>
+<rect x="414" y="768" width="212" height="26" rx="4" fill="#f2d8b7"/>
+<text x="520.0" y="786" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">21</text>
+<rect x="634" y="768" width="212" height="26" rx="4" fill="#83b99e"/>
+<text x="740.0" y="786" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">11</text>
+<rect x="854" y="768" width="212" height="26" rx="4" fill="#c7775b"/>
+<text x="960.0" y="786" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">25</text>
+<rect x="0" y="797" width="1120" height="32" fill="#ffffff"/>
+<text x="175" y="818" text-anchor="end" font-family="Arial" font-size="12" fill="#294455">Blueste (n=10)</text>
+<rect x="194" y="800" width="212" height="26" rx="4" fill="#f2d8b7"/>
+<text x="300.0" y="818" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">22</text>
+<rect x="414" y="800" width="212" height="26" rx="4" fill="#83b99e"/>
+<text x="520.0" y="818" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">12</text>
+<rect x="634" y="800" width="212" height="26" rx="4" fill="#c7775b"/>
+<text x="740.0" y="818" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">26</text>
+<rect x="854" y="800" width="212" height="26" rx="4" fill="#83b99e"/>
+<text x="960.0" y="818" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">11</text>
+<rect x="0" y="829" width="1120" height="32" fill="#f6f8f9"/>
+<text x="175" y="850" text-anchor="end" font-family="Arial" font-size="12" fill="#294455">BrkSide (n=108)</text>
+<rect x="194" y="832" width="212" height="26" rx="4" fill="#f2d8b7"/>
+<text x="300.0" y="850" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">23</text>
+<rect x="414" y="832" width="212" height="26" rx="4" fill="#c7775b"/>
+<text x="520.0" y="850" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">25</text>
+<rect x="634" y="832" width="212" height="26" rx="4" fill="#f2d8b7"/>
+<text x="740.0" y="850" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">21</text>
+<rect x="854" y="832" width="212" height="26" rx="4" fill="#c7775b"/>
+<text x="960.0" y="850" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">24</text>
+<rect x="0" y="861" width="1120" height="32" fill="#ffffff"/>
+<text x="175" y="882" text-anchor="end" font-family="Arial" font-size="12" fill="#294455">Edwards (n=194)</text>
+<rect x="194" y="864" width="212" height="26" rx="4" fill="#c7775b"/>
+<text x="300.0" y="882" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">24</text>
+<rect x="414" y="864" width="212" height="26" rx="4" fill="#f2d8b7"/>
+<text x="520.0" y="882" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">23</text>
+<rect x="634" y="864" width="212" height="26" rx="4" fill="#83b99e"/>
+<text x="740.0" y="882" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">12</text>
+<rect x="854" y="864" width="212" height="26" rx="4" fill="#c7775b"/>
+<text x="960.0" y="882" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">26</text>
+<rect x="0" y="893" width="1120" height="32" fill="#f6f8f9"/>
+<text x="175" y="914" text-anchor="end" font-family="Arial" font-size="12" fill="#294455">OldTown (n=239)</text>
+<rect x="194" y="896" width="212" height="26" rx="4" fill="#c7775b"/>
+<text x="300.0" y="914" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">25</text>
+<rect x="414" y="896" width="212" height="26" rx="4" fill="#c7775b"/>
+<text x="520.0" y="914" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">28</text>
+<rect x="634" y="896" width="212" height="26" rx="4" fill="#f2d8b7"/>
+<text x="740.0" y="914" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">18</text>
+<rect x="854" y="896" width="212" height="26" rx="4" fill="#f2d8b7"/>
+<text x="960.0" y="914" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">23</text>
+<rect x="0" y="925" width="1120" height="32" fill="#ffffff"/>
+<text x="175" y="946" text-anchor="end" font-family="Arial" font-size="12" fill="#294455">IDOTRR (n=93)</text>
+<rect x="194" y="928" width="212" height="26" rx="4" fill="#c7775b"/>
+<text x="300.0" y="946" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">26</text>
+<rect x="414" y="928" width="212" height="26" rx="4" fill="#c7775b"/>
+<text x="520.0" y="946" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">27</text>
+<rect x="634" y="928" width="212" height="26" rx="4" fill="#e5efe9"/>
+<text x="740.0" y="946" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">17</text>
+<rect x="854" y="928" width="212" height="26" rx="4" fill="#c7775b"/>
+<text x="960.0" y="946" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">27</text>
+<rect x="0" y="957" width="1120" height="32" fill="#f6f8f9"/>
+<text x="175" y="978" text-anchor="end" font-family="Arial" font-size="12" fill="#294455">BrDale (n=30)</text>
+<rect x="194" y="960" width="212" height="26" rx="4" fill="#c7775b"/>
+<text x="300.0" y="978" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">27</text>
+<rect x="414" y="960" width="212" height="26" rx="4" fill="#f2d8b7"/>
+<text x="520.0" y="978" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">19</text>
+<rect x="634" y="960" width="212" height="26" rx="4" fill="#c7775b"/>
+<text x="740.0" y="978" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">28</text>
+<rect x="854" y="960" width="212" height="26" rx="4" fill="#f2d8b7"/>
+<text x="960.0" y="978" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">19</text>
+<rect x="0" y="989" width="1120" height="32" fill="#ffffff"/>
+<text x="175" y="1010" text-anchor="end" font-family="Arial" font-size="12" fill="#294455">MeadowV (n=37)</text>
+<rect x="194" y="992" width="212" height="26" rx="4" fill="#c7775b"/>
+<text x="300.0" y="1010" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">28</text>
+<rect x="414" y="992" width="212" height="26" rx="4" fill="#f2d8b7"/>
+<text x="520.0" y="1010" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">18</text>
+<rect x="634" y="992" width="212" height="26" rx="4" fill="#c7775b"/>
+<text x="740.0" y="1010" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">27</text>
+<rect x="854" y="992" width="212" height="26" rx="4" fill="#c7775b"/>
+<text x="960.0" y="1010" text-anchor="middle" font-family="Arial" font-size="12" fill="#17324d">28</text>
+<text x="190" y="1045" font-family="Arial" font-size="11" fill="#526779">Higher rank</text>
+<rect x="285" y="1033" width="38" height="16" fill="#246c58" rx="3"/>
+<rect x="330" y="1033" width="38" height="16" fill="#83b99e" rx="3"/>
+<rect x="375" y="1033" width="38" height="16" fill="#e5efe9" rx="3"/>
+<rect x="420" y="1033" width="38" height="16" fill="#f2d8b7" rx="3"/>
+<rect x="465" y="1033" width="38" height="16" fill="#c7775b" rx="3"/>
+<text x="530" y="1045" font-family="Arial" font-size="11" fill="#526779">Lower rank</text>
+</svg>
